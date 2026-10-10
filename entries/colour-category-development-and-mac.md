@@ -51,7 +51,12 @@ In their German/Japanese comparison, \citet{saji:2025_crosslinguistic} found tha
 
 A more direct route from interaction to learning appears in \citet{ohanlon:2006_learning}. In experiments on novel secondary colour words, corrective feedback referred to the **child's own** mistaken label: after a choice, the tutor contrasted the target term with the label the child had supplied. Over five weeks, this response-contingent correction improved learning relative to relevant control and semantic-contrast conditions; the corrective–referential comparison was not uniformly significant. Replication with Italian children illustrated how the ambient lexicon changes the problem. Crucially, a third experiment found that making the colour dimension perceptually salient through task outcomes also improved learning to a similar extent. Thus the evidence identifies a role for information and attentional guidance in corrective interaction, but does not isolate coordination as the unique cause.
 
-\citet{franklin:2006_constraints} cautions against treating “difficulty learning colour words” as a single problem: conceptual, attentional and linguistic constraints can arise at different phases and require distinct tests.
+{==\citet{franklin:2006_constraints}==}{##bbdcd694-11a5-48a5-80e7-ab9f80c332ab##} cautions against treating “difficulty learning colour words” as a single problem: conceptual, attentional and linguistic constraints can arise at different phases and require distinct tests.
+
+{##bbdcd694-11a5-48a5-80e7-ab9f80c332ab:
+^ wrong citation key! Check all citation keys. Do not invent them
+##}
+
 
 ## Does lexical acquisition change colour perception?
 

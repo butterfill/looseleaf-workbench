@@ -3,7 +3,7 @@
 *Research capture, 10 October 2026. {==Preliminary, not promotion-ready.==}{##990601d6-ae6b-4d69-9969-4a8bef4aa650##}*
 
 {##990601d6-ae6b-4d69-9969-4a8bef4aa650:
-^ Don't add this kind of commentary. Focus on the substance
+^ Don't add this kind of commentary. This kind of detail belongs in the commit message. Focus on the substance.
 ##}
 
 

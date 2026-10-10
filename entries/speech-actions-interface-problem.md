@@ -1,8 +1,18 @@
 # Speech actions and the intention–motor interface
 
-*Initial research capture, 10 October 2026. Status: exploratory; not a literature-review or promotion-ready source dossier. Prepared from the conversation and the two project repositories by ChatGPT (GPT-6).*
+*{==Initial research capture, 10 October 2026. Status: exploratory; not a literature-review or promotion-ready source dossier. Prepared from the conversation and the two project repositories by ChatGPT (GPT-6).==}{##4f653538-4096-4442-882f-ee8a855d69fb##}*
 
-## The motivating questions
+{##4f653538-4096-4442-882f-ee8a855d69fb:
+^ Don't add this kind of commentary. This kind of detail belongs in the commit message. Focus on the substance.
+##}
+
+
+## The {==motivating questions==}{##d8595dc6-9674-4d07-8385-f7bf698b30ca##}
+
+{##d8595dc6-9674-4d07-8385-f7bf698b30ca:
+^ formulate the questions rather than quoting a prompt. (The prompt is nearly always a bit rough and ready.)
+##}
+
 
 The inquiry began with a return to categorical speech perception and the classical motor theory:
 
