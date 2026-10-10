@@ -1,0 +1,82 @@
+# Source and verification checklist — speech actions and the interface problem
+
+*Initial capture 10 October 2026; accompanying entry: [Speech actions and the intention–motor interface](../../entries/speech-actions-interface-problem.md). Maintained by ChatGPT (GPT-6).*
+
+## Reading standard and limits
+
+The main entry preserves the research **as discussed in the preceding conversation**. It draws on the Personal Papers connector, public publication pages and abstracts consulted in that conversation, and the two named project repositories. It is not a newly completed source-by-source systematic review. **No publication-specific assessment notes have been created in this capture**: further precise full-text checking is needed before describing papers as fully vetted, and the workbench instructions prohibit prematurely creating source notes.
+
+A verified library key records bibliographic identity, *not* automatically verified full-text interpretation. “Original consulted” below means original publication text was directly accessed at least in part, not that the whole work was independently read from cover to cover. Workbench source notes should be added at sources/speech-actions-interface-problem/<key-without-colons>.md only after checking the original full text and recording locators, evidence, alternatives and limitations.
+
+## Published works with verified Personal Papers keys
+
+Exact keys and publication identity were rechecked through Research / Personal Papers during capture.
+
+| Key and work | Actual access / use across the conversation | Further check before source note |
+|---|---|---|
+| \citep{butterfill:2012_intention} — Butterfill & Sinigaglia, *Intention and Motor Representation in Purposive Action* (journal issue 2014 despite key's 2012) | Original full text read in previous turn, especially §§3–6 on formats, matching and deference; bibliography rechecked now | Revisit empirical examples and §5/§6 distinctions before a dedicated note |
+| \citep{Butterfill:2009vs} — *Seeing Causes and Hearing Gestures* | Earlier conversation discussed the argument; library identity rechecked now; not independently fully reread for this capture | Check exact speech-perception reconstruction against original |
+| \citep{Liberman:1985bn} — Liberman & Mattingly, *The Motor Theory of Speech Perception Revised* | Library metadata verified; classical intended-gesture position discussed via review | Original full-text distinction between intended gestures, actual articulations, and speech-specific mechanisms |
+| \citep{Browman:1992da} — Browman & Goldstein, *Articulatory Phonology: An Overview* | Library metadata verified; gestural theory described from earlier examination/secondary accounts | Original gestural-task definition, coordination mechanisms and claims about perception |
+| \citep{Goldstein:2003bn} — Goldstein & Fowler, *Articulatory Phonology: A Phonology for Public Language Use* | Library chapter metadata verified; used for gestural programme | Original full chapter and the production/perception commitments |
+| \citep{galantucci:2006_motor} — Galantucci, Fowler & Turvey, *The Motor Theory of Speech Perception Reviewed* | Library abstract consulted; three-claim distinction supported by abstract | Read article closely for strongest case for perceiving gestures and alternative explanations |
+| \citep{smalle:2015_dissociating} — Smalle, Rogers & Möttönen, *Dissociating Contributions of the Motor Cortex...* | Library metadata and published methods/results excerpts previously inspected | Original TMS design, controls and distinction between sensitivity and response bias |
+| \citep{bruderer:2015_sensorimotor} — Bruderer et al., *Sensorimotor Influences on Speech Perception in Infancy* | Library identity and study summary previously examined | Original experiment, controls and developmental interpretation |
+| \citep{stasenko:2015_causal} — Stasenko et al., *A Causal Test of the Motor Theory...* | Original open-access methods/results excerpts, plus library metadata | Recheck patient lesion and discrimination/identification tasks and scope of inference |
+| \citep{mesgarani:2014_phonetic} — Mesgarani et al., *Phonetic Feature Encoding in Human Superior Temporal Gyrus* | Library abstract and direct-recording results summary previously examined | Original analyses and what acoustic-feature tuning permits one to infer |
+| \citep{mylopoulos:2016_intentions} — *Intentions and Motor Representations: The Interface Challenge* | Bibliographic key verified; substantive claim record in kb-interface-problem-sources reviewed | Read original §5 in full for executable concepts, schemas and parameterisation |
+| \citep{burnston:2017_interface} — *Interface Problems in the Explanation of Action* | Key verified; detailed kb source record read | Original §§2–4 and underlying lexical-motor studies |
+| \citep{christensen:2021_skill} — *The Skill of Translating Thought into Action: Framing the Problem* | Key verified; kb source record read | Original distinction between narrow and broad translation and learning proposal |
+| \citep{fridland:2021_intention} — *Intention at the Interface* | Key verified; kb source record read | Original comparison of general/practical intentions and the cited adaptation experiments |
+| \citep{brossel:2026_solving} — Brössel & Kuipers, *Solving the Interface Problem...* | Key verified; kb source record read | Original formal model; distinguish geometry of matching from Bayesian selection |
+| \citep{mylopoulos:2025_motoric} — *Motoric Representational Format* (2026 issue; 2025 key) | Key verified; kb source record read | Original format markers and proposed hybrid scheme, particularly §6 |
+
+**Source-note status:** zero full-text source notes created; this is intentional for a first capture. The existing [interface-problem knowledge base](https://github.com/butterfill/kb-interface-problem-sources) has independently maintained claim records and reading-provenance tables, which should be checked rather than copied uncritically.
+
+## Sources absent from the verified library-key set
+
+The following works have publication identity and DOI checked from the sources used in the conversation. Their access descriptions are *what actually happened*, not claims of independent comprehensive review. All still need a Personal Papers key lookup/acquisition before a workbench publication source note.
+
+| Source | Full citation; DOI / metadata | Access and use; next check |
+|---|---|---|
+| McMurray (2022) | McMurray, B. (2022). The myth of categorical perception. *Journal of the Acoustical Society of America*, 152(6), 3819–3842. [10.1121/10.0016614](https://libkey.io/libraries/3907/10.1121/10.0016614) | Open-access full text available; substantial abstract, introduction and theoretical argument read in first inquiry. Check direct empirical evidence and rival CP definitions. |
+| Toscano et al. (2010) | Toscano, J. C., McMurray, B., Dennhardt, J., & Luck, S. J. (2010). Continuous perception and graded categorization: Electrophysiological evidence for a linear relationship between the acoustic signal and perceptual encoding of speech. *Psychological Science*, 21(10), 1532–1540. [10.1177/0956797610384142](https://libkey.io/libraries/3907/10.1177/0956797610384142) | Published abstract and accessible manuscript were checked in initial inquiry. Read complete method, controls and interpretation. |
+| Goldstein et al. (2007) | Goldstein, L., Pouplier, M., Chen, L., Saltzman, E., & Byrd, D. (2007). Dynamic action units slip in speech production errors. *Cognition*, 103(3), 386–412. [10.1016/j.cognition.2006.05.010](https://libkey.io/libraries/3907/10.1016/j.cognition.2006.05.010) | Publisher/PubMed bibliographic identity verified; abstract and experiment summary checked. Inspect full kinematic methods and errors before asserting general gestural compositionality. |
+| Skipper et al. (2017) | Skipper, J. I., Devlin, J. T., & Lametti, D. R. (2017). The hearing ear is always found close to the speaking tongue: Review of the role of the motor system in speech perception. *Brain and Language*, 164, 77–105. [10.1016/j.bandl.2016.10.004](https://libkey.io/libraries/3907/10.1016/j.bandl.2016.10.004) | Published abstract and review summary checked earlier. Independently inspect disputed causal and lesion evidence. |
+| Carneiro Pereira et al. (2026) | Carneiro Pereira, S., Patri, J.-F., & Vannuscorps, G. (2026). On the origin of the effect of silent articulation on speech perception. *Scientific Reports*, published online 22 July 2026. [10.1038/s41598-026-63240-5](https://libkey.io/libraries/3907/10.1038/s41598-026-63240-5) | Publisher article abstract and experimental description inspected. Read full study, controls, limitations and interpretation. |
+| Levelt (2001) | Levelt, W. J. M. (2001). Spoken word production: A theory of lexical access. *PNAS*, 98(23), 13464–13471. [10.1073/pnas.231459498](https://libkey.io/libraries/3907/10.1073/pnas.231459498) | Published abstract, accessible full-text opening and bibliographic record examined. Check what stages the model implements vs assumes. |
+| Parrell et al. (2019) | Parrell, B., Ramanarayanan, V., Nagarajan, S., & Houde, J. (2019). The FACTS model of speech motor control: Fusing state estimation and task-based control. *PLOS Computational Biology*, 15(9), e1007321. [10.1371/journal.pcbi.1007321](https://libkey.io/libraries/3907/10.1371/journal.pcbi.1007321) | Open-access original abstract, architecture and introduction examined. Check simulations and what is exogenous in the model. |
+| Meier & Guenther (2023) | Meier, A. M., & Guenther, F. H. (2023). Neurocomputational modeling of speech motor development. *Journal of Child Language*, 50(6), 1318–1335. [10.1017/S0305000923000260](https://libkey.io/libraries/3907/10.1017/S0305000923000260) | Published review abstract and DIVA/GODIVA overview examined. Read acquisition details and modelling boundaries. |
+| Niziolek & Guenther (2013) | Niziolek, C. A., & Guenther, F. H. (2013). Vowel category boundaries enhance cortical and behavioral responses to speech feedback alterations. *Journal of Neuroscience*, 33(29), 12090–12098. [10.1523/JNEUROSCI.1008-13.2013](https://libkey.io/libraries/3907/10.1523/JNEUROSCI.1008-13.2013) | Original publisher abstract/introduction and design contrast examined. Inspect full feedback experiment, analyses, and category-boundary controls. |
+| Bourguignon et al. (2014) | Bourguignon, N. J., Baum, S. R., & Shiller, D. M. (2014). Lexical-perceptual integration influences sensorimotor adaptation in speech. *Frontiers in Human Neuroscience*, 8, 208. [10.3389/fnhum.2014.00208](https://libkey.io/libraries/3907/10.3389/fnhum.2014.00208) | Original open-access abstract and experimental contrasts inspected. Critically check methods/replications and limits before extrapolating from lexical status to intention. |
+| Lametti et al. (2014) | Lametti, D. R., Rochet-Capellan, A., Neufeld, E., Shiller, D. M., & Ostry, D. J. (2014). Plasticity in the human speech motor system drives changes in speech perception. *Journal of Neuroscience*, 34(31), 10339–10346. [10.1523/JNEUROSCI.0108-14.2014](https://libkey.io/libraries/3907/10.1523/JNEUROSCI.0108-14.2014) | Publisher abstract and summary of separate motor/sensory conditions previously read. Check full experiment and what perceptual change measures. |
+| Parrell et al. (2026) | Parrell, B., Bae, M., Naber, C., Kim, O. A., Niziolek, C. A., & McDougle, S. D. (2026). Audiomotor prediction errors drive speech adaptation even in the absence of overt movement. *PLOS Biology*, 24(6), e3003862. [10.1371/journal.pbio.3003862](https://libkey.io/libraries/3907/10.1371/journal.pbio.3003862) | Original published abstract, movement-cancellation design and introductory discussion inspected. Prioritise full design, passive-listening controls, and plans vs intentions. |
+| Grandchamp et al. (2019) | Grandchamp, R., Rapin, L., Perrone-Bertolotti, M., Pichat, C., Haldin, C., et al. (2019). The ConDialInt model: Condensation, dialogality, and intentionality dimensions of inner speech within a hierarchical predictive control framework. *Frontiers in Psychology*, 10, 2019. [10.3389/fpsyg.2019.02019](https://libkey.io/libraries/3907/10.3389/fpsyg.2019.02019) | Original abstract and theory description examined. Verify complete authors and dissociate modelling assumptions from evidence about actual covert articulation. |
+| Bögels et al. (2015) | Bögels, S., Magyari, L., & Levinson, S. C. (2015). Neural signatures of response planning occur midway through an incoming question in conversation. *Scientific Reports*, 5, 12881. [10.1038/srep12881](https://libkey.io/libraries/3907/10.1038/srep12881) | Publisher abstract and experimental outline checked. Do not treat early response planning as direct evidence for collective motor outcomes. |
+
+## Project material actually consulted
+
+- [The Motor in Thought](https://github.com/butterfill/motor-in-thought) (private working repository): revised book proposal, revised chapter outlines, and previous outline's explicit phonetic-action passage. These are unpublished proposals/hypotheses, not independent empirical evidence.
+- [Interface-problem source knowledge base](https://github.com/butterfill/kb-interface-problem-sources) (private working repository): README, question-routing index, 29-distinction index, research record and selected source pages on deference, motor schemas, dimensional biasing, translation, intentions, conceptual spaces and format. Those pages report their own earlier reading scopes; this capture used them as project context and did not re-audit every cited experiment.
+- \citep{butterfill:2012_intention}: Research / Personal Papers original full text directly consulted during prior response; source-specific record remains to be written.
+- The user's *Seeing Causes and Hearing Gestures* and *Categorical Perception: A Fresh Start* manuscript context was reported in the earlier conversation; recheck draft text directly before making a close textual argument.
+
+## Open acquisition and research tasks
+
+- [ ] Obtain and check original full texts for the decisive production/perception studies, and create **one source note per publication** only after that check.
+- [ ] Resolve Personal Papers keys for the author–date works above (never guess keys); replace author–date citations throughout the entry as keys become verified.
+- [ ] Identify actual interface loci in Levelt, DIVA/GODIVA and FACTS; record which high-level mappings are implemented vs assumed.
+- [ ] Revisit original measures behind claims of gestural units, speech-motor causal influence, perceptual encoding and phonetic/lexical feedback adaptation. Note counterevidence and experimental ambiguities.
+- [ ] Evaluate how speech-perception deficits after articulatory lesions and auditory deficits constrain any strong perceptual-gestures claim.
+- [ ] Compare learning new phonetic *contrasts* with intentional selection of fine articulatory outcomes; distinguish perceptual discrimination, phonological identification, execution and action concepts.
+- [ ] Look for evidence that motor experience reorganises **event individuation** or conceptual availability, not simply motor performance and perceptual acuity.
+- [ ] Test whether any predicted contrast discriminates deference, schema activation, dimensional biasing, Bayesian selection, learned translation, and experience-mediated explanations; avoid treating generic coupling as a theory test.
+- [ ] Consider sign-language or alternative speech modalities as boundary cases: an account tied to the vocal tract may be too narrow.
+- [ ] Conduct a fresh, wider literature survey with chronological and citation-chasing coverage; current list is selective and inherited from the conversation.
+- [ ] Reconsider the main entry after substantive checks and *do not promote* without the user's explicit request.
+
+## Editorial caveats
+
+The 2026 experiments are recent; robustness across populations and independent replication have not been established here. Some papers are reviews, others are computational demonstrations, and others are single-case or perturbation studies; evidential kinds should never be conflated. The extent of engagement with the original publications varies and is recorded above. Workbench source notes require a genuine source-level audit, not the transfer of claims from conversation prose.
+
+*Capture and verification record authored by ChatGPT (GPT-6), 10 October 2026.*
