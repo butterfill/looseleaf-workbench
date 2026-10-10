@@ -14,6 +14,8 @@ Initial capture can precede source checking; mark uncertainties candidly and tra
 
 For each inquiry, maintain only its main entry, a source checklist, and source-specific notes (one per publication). Do not create separate plans, progress reports, alternative drafts, or other working documents. Revise the existing files; Git preserves their previous versions.
 
+Inline annotations are temporary working comments. Interpret the first non-whitespace character of a comment: `∞` is Stephen-owned—never act on, edit, remove, or resolve it without explicit instruction; `^` addresses agents; unmarked comments are agent-addressed unless clearly personal. Put lasting conclusions in the prose. Remove small agent comments once resolved; for larger actions awaiting review, preserve the request, mark it `[done]`, and add a brief italic reply. Preserve `∞` annotations through revision and promotion.
+
 ## Research and revision
 
 Use **Research / Personal Papers** for bibliographic records and original full texts. Use **Exa**, **Parallel Search**, your own search tools, citation chasing, and other appropriate resources to discover sources and evaluate coverage.
