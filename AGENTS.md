@@ -12,6 +12,8 @@ Place entries in `entries/<descriptive-name>.md`. Source-specific notes belong i
 
 Initial capture can precede source checking; mark uncertainties candidly and track missing or unchecked sources in the checklist rather than making premature source notes.
 
+For each inquiry, maintain only its main entry, a source checklist, and source-specific notes (one per publication). Do not create separate plans, progress reports, alternative drafts, or other working documents. Revise the existing files; Git preserves their previous versions.
+
 ## Research and revision
 
 Use **Research / Personal Papers** for bibliographic records and original full texts. Use **Exa**, **Parallel Search**, your own search tools, citation chasing, and other appropriate resources to discover sources and evaluate coverage.
@@ -30,4 +32,4 @@ After investigating sources, reconsider the main account rather than merely addi
 
 Use Git commits to record meaningful changes and their reasons. Identify the agent and model where possible.
 
-Entries may eventually be promoted to `looseleaf`, normally together with their supporting source notes. Once promotion has succeeded, remove the promoted material from the workbench's active tree. Its development history remains in Git.
+Promote an entry only when explicitly requested by the user. Transfer the main entry and its checked source notes to looseleaf, recording the originating workbench commit. Verify that the transferred files and links are correct before removing the promoted entry, its checklist, and its source notes from the workbench's active tree. Git preserves the development history.
