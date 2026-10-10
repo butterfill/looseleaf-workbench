@@ -1,6 +1,6 @@
 # \citet{su:2024_people}: changes of action and goal are distinguishable
 
-**Reference.** Su, Xing & Khena M. Swallow (2024), “People can reliably detect action changes and goal changes during naturalistic perception,” *Memory & Cognition* 52(5):1093–1111. DOI 10.3758/s13421-024-01525-8. Exact Personal Papers metadata key: \`su:2024_people\`.
+**Reference.** Su, Xing & Khena M. Swallow (2024), “People can reliably detect action changes and goal changes during naturalistic perception,” *Memory & Cognition* 52(5):1093–1111. DOI 10.3758/s13421-024-01525-8. Exact Personal Papers metadata key: `su:2024_people`.
 
 **Method.** Untrained participants viewed recordings of everyday actions from first- and third-person perspectives, marking **action changes**, **goal changes**, or **event boundaries** under different instructions. Analyses compared temporal agreement, relationships among kinds of marks, pixel-based visual change, and object touch onsets/offsets. Much of the analysis of task order used only first tasks to reduce carryover (Method; Results; Discussion).
 
@@ -12,6 +12,6 @@
 
 | Access | Material checked |
 |---|---|
-| Original full text, Personal Papers \`papers:su:2024_people\` | Abstract, methods/task instructions, Results (press rates, agreement, visual controls), Discussion and Limitations. |
+| Original full text, Personal Papers `papers:su:2024_people` | Abstract, methods/task instructions, Results (press rates, agreement, visual controls), Discussion and Limitations. |
 
 [Main entry](../../entries/motoric-action-individuation.md) · [Checklist](checklist.md)

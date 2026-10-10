@@ -1,8 +1,8 @@
 # \citet{reynolds:2007_computational}: prediction-error segmentation in a learned environment
 
-**Reference.** Reynolds, Jeremy R., Jeffrey M. Zacks & Todd S. Braver (2007), “A Computational Model of Event Segmentation From Perceptual Prediction,” *Cognitive Science* 31(4):613–643. DOI 10.1080/15326900701399913. The **exact** \`citation-key\` \`reynolds:2007_computational\` is present in the Personal Papers bibliographic metadata and the actual Zotero export, not inferred from a filename.
+**Reference.** Reynolds, Jeremy R., Jeffrey M. Zacks & Todd S. Braver (2007), “A Computational Model of Event Segmentation From Perceptual Prediction,” *Cognitive Science* 31(4):613–643. DOI 10.1080/15326900701399913. The **exact** `citation-key` `reynolds:2007_computational` is present in the Personal Papers bibliographic metadata and the actual Zotero export, not inferred from a filename.
 
-**Source access note.** The Research connector's \`view=fulltext\` returned “Full text not found”; that is a **route-specific failure**, not grounds for saying the article or original text is absent from the library. The **published original full-text HTML** was retrieved from Wiley: https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701399913. Its full article text, including the simulations' methods, results and general discussion, was consulted. This note does not assert that the Research connector successfully served its full-text representation.
+**Source access note.** The Research connector's `view=fulltext` returned “Full text not found”; that is a **route-specific failure**, not grounds for saying the article or original text is absent from the library. The **published original full-text HTML** was retrieved from Wiley: https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701399913. Its full article text, including the simulations' methods, results and general discussion, was consulted. This note does not assert that the Research connector successfully served its full-text representation.
 
 **Model.** Networks were trained to predict the next state of continuous sequential input based on movement trajectories. A maintained context representation is useful *within* an event; increased prediction error can signal when to update this state at an event boundary. Several simulations compared event-unit prediction and methods for opening the contextual gate, culminating in an approach that learns a useful prediction-error signal without direct supervised instruction for every boundary.
 
@@ -14,7 +14,7 @@
 
 | Access | Material checked |
 |---|---|
-| Personal Papers citation metadata and Zotero-export record | Exact \`citation-key\`, authors, DOI and publication record checked. |
+| Personal Papers citation metadata and Zotero-export record | Exact `citation-key`, authors, DOI and publication record checked. |
 | Published Wiley full-text HTML, open-access original article | Abstract, model architecture, simulations' training and boundary definitions, major results and general discussion. DOI: https://libkey.io/libraries/3907/10.1080/15326900701399913. |
 
 [Main entry](../../entries/motoric-action-individuation.md) · [Checklist](checklist.md)
