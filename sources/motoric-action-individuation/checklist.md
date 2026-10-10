@@ -4,13 +4,13 @@
 
 ## How keys were verified
 
-Personal Papers exposes both a bibliographic search/index layer and, for some older records, the actual original BibTeX entry. **These are not interchangeable.** The earlier entry copied plausible-looking index keys and then treated them as verified BibTeX; in particular, it used \`zacks:2001_perceiving\`, \`zacks:2004_using\`, and \`kurby:2008_segmentation\`. The actual legacy **BibTeX entries** are \`Zacks:2001vo\`, \`Zacks:2004vd\`, and \`Kurby:2008bk\`. These three have been corrected throughout the active workbench files, and the source notes are now named from their actual keys.
+Personal Papers exposes both a bibliographic search/index layer and, for some older records, the actual original BibTeX entry. **These are not interchangeable.** The earlier entry copied plausible-looking index keys and then treated them as verified BibTeX; in particular, it used `zacks:2001_perceiving`, `zacks:2004_using`, and `kurby:2008_segmentation`. The actual legacy **BibTeX entries** are `Zacks:2001vo`, `Zacks:2004vd`, and `Kurby:2008bk`. These three have been corrected throughout the active workbench files, and the source notes are now named from their actual keys.
 
-- **L** means literal \`@article{...}\` or \`@incollection{...}\` read from the Personal Papers \`get_citation(format="bibtex")\` result. This is the strongest form of key verification.
-- **M** means the exact literal \`citation-key\` from the original **Personal Papers bibliographic record**, fetched with \`read_source(view="metadata")\`. The BibTeX view for many newer items returns “BibTeX entry not found”; that does **not** entail that the metadata key was invented or the work is absent. The key is explicitly recorded in the user's library, but the legacy BibTeX form has not been independently returned.
-- **Z** means literal \`citation-key\` verified in **both** the Personal Papers metadata and the user's own \`zotero-export.json\`. This supplies strong independent documentary evidence for the key even when the legacy BibTeX API or research full-text route fails.
+- **L** means literal `@article{...}` or `@incollection{...}` read from the Personal Papers `get_citation(format="bibtex")` result. This is the strongest form of key verification.
+- **M** means the exact literal `citation-key` from the original **Personal Papers bibliographic record**, fetched with `read_source(view="metadata")`. The BibTeX view for many newer items returns “BibTeX entry not found”; that does **not** entail that the metadata key was invented or the work is absent. The key is explicitly recorded in the user's library, but the legacy BibTeX form has not been independently returned.
+- **Z** means literal `citation-key` verified in **both** the Personal Papers metadata and the user's own `zotero-export.json`. This supplies strong independent documentary evidence for the key even when the legacy BibTeX API or research full-text route fails.
 
-**For overlapping older records**, prefer actual original legacy BibTeX keys (L), not alternate modernized search identifiers. All keys below are copied from an explicit representation, preserving capitalization. The filename is *exactly the key with colons removed*, as \`AGENTS.md\` requires.
+**For overlapping older records**, prefer actual original legacy BibTeX keys (L), not alternate modernized search identifiers. All keys below are copied from an explicit representation, preserving capitalization. The filename is *exactly the key with colons removed*, as `AGENTS.md` requires.
 
 ## Checked work by research area
 
