@@ -12,7 +12,6 @@ Place entries in `entries/<descriptive-name>.md`. Source-specific notes belong i
 
 Initial capture can precede source checking; mark uncertainties candidly and track missing or unchecked sources in the checklist rather than making premature source notes.
 
-
 ## Research and revision
 
 Use **Research / Personal Papers** for bibliographic records and original full texts. Use **Exa**, **Parallel Search**, your own search tools, citation chasing, and other appropriate resources to discover sources and evaluate coverage.
@@ -21,7 +20,9 @@ Reconsider source selection as well as the accuracy of individual claims. Search
 
 Follow the user's `cite-published-source` skill when available. Use verified BibTeX keys in `\citet{...}` and `\citep{...}` whenever known; never invent keys. For sources absent from the library, use author–date references and record full bibliographic details and a copyable DOI (or, if no DOI is available, a suitable metadata link) in the checklist until a verified library key is available.
 
-Keep records of what sources were actually read and checked in `sources/<entry-name>/checklist.md`. It should also track sources needing acquisition, library keys, or further checking; it is a process record, not a substitute for source notes. 
+Keep records of what sources were actually read and checked in `sources/<entry-name>/checklist.md`. It should also track sources needing acquisition, library keys, or further checking; it is a process record, not a substitute for source notes.
+
+Source notes should establish what the original publication actually argues or reports, what evidence it provides, what it fails to establish, and how it bears on the inquiry. Include precise locators where possible and an honest record of the material accessed and checks performed. Original full text is required to create or substantively revise a source assessment; non-substantive corrections and warnings may be made without it. Do not present abstract-level access as full-text verification.
 
 After investigating sources, reconsider the main account rather than merely adding references.
 
