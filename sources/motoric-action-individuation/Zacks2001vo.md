@@ -6,7 +6,7 @@
 
 **Crucial negative evidence.** The authors expected laboratory training for an unfamiliar activity and experts' greater knowledge to strengthen hierarchical encoding in Experiments 2–3. In their Results, a discrete measure in Experiment 2 differed in the direction *opposite* the prediction; a continuous measure was null. Neither trained/untrained novices nor experts/novices exhibited robustly different distributions of boundary locations; the Discussion expressly states neither training nor direct expertise comparison explained the familiarity effects. Training and expertise should therefore **not** be presented as positive causal evidence for motor-based restructuring.
 
-**Bearing on action individuation.** Hierarchically described event units are relevant proxies for action thought, but a boundary need not divide actions; representation of nested events need not have motor origins. This paper is strong evidence for structured event encoding, not for a motor-to-conceptual causal route. \citet{Hard:2006qm} later questions whether simple unsigned boundary alignment is the best measure of meaningful hierarchy.
+**Bearing on action individuation.** Hierarchically described event units are relevant proxies for action thought, but a boundary need not divide actions; representation of nested events need not have motor origins. This paper is strong evidence for structured event encoding, not for a motor-to-conceptual causal route. A later **retracted** study, \citet{Hard:2006qm}, proposed a different ‘enclosure’ measure, but its authors subsequently withdrew its results as unreliable (2008 retraction DOI 10.1037/a0013753); it **cannot provide empirical validation** of a purported superior measure.
 
 | Access | Material checked |
 |---|---|
