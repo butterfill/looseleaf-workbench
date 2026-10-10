@@ -44,7 +44,12 @@ A more specific antecedent was found in [the earlier chapter-outline text](https
 
 The [interface-problem source knowledge base](https://github.com/butterfill/kb-interface-problem-sources) distinguishes matching/selection, content/format/vehicle, executable/observational concepts, reusable motor schemas/token motor plans, development/performance, and motor-format hybridity. Its claim records provide orientation, not an independent re-reading of all cited experiments. Particularly relevant accounts include \citep{mylopoulos:2016_intentions,burnston:2017_interface,christensen:2021_skill,fridland:2021_intention,brossel:2026_solving,mylopoulos:2025_motoric}.
 
-## Findings from the speech literature discussed in the conversation
+## {==Findings from the speech literature discussed in the conversation==}{##7f39ff14-3cc4-49cd-b781-5f1f18b656ba##}
+
+{##7f39ff14-3cc4-49cd-b781-5f1f18b656ba:
+^ this is not quite the right approach. I don't want a note about a conversation. I want a note with the substance of the research discussed. (It may help to imagine that I'm doing the reading and writing up the notes myself for myself. (But please don't write as me.))
+##}
+
 
 ### 1. Gestures persist in speech production; the classical motor-perception thesis remains unsettled
 

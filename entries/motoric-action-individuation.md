@@ -72,7 +72,12 @@ Pomp et al. (2024) find that contact and release between hands and objects, and 
 
 ## A discriminating study
 
-Train two groups to perform the **same visible continuous sequence** of six movements while inducing different independently measurable motor chunks (e.g. **1–3 | 4–6** versus **1–2 | 3–4 | 5–6**). Verify the *motor* partition using initiation latency, transition costs, interference or transfer, not self-reported segmentation. Match visual experience, movement trajectories, semantic instruction and overall goal; include visual-only and explicit conceptual-grouping control conditions.
+Train two groups to perform the **same visible continuous sequence** of six movements while inducing different independently measurable motor chunks {==(e.g. **1–3 | 4–6** versus **1–2 | 3–4 | 5–6**)==}{##11f7a80b-8800-47bd-8327-ce05a3463a74##}. Verify the *motor* partition using initiation latency, transition costs, interference or transfer, not self-reported segmentation. Match visual experience, movement trajectories, semantic instruction and overall goal; include visual-only and explicit conceptual-grouping control conditions.
+
+{##11f7a80b-8800-47bd-8327-ce05a3463a74:
+^ please include the original diagram as svg
+##}
+
 
 Then have both groups watch the **identical recording** of a new performer and assess not just boundary presses but judgements about which portions constitute *one action*, how parts are described and remembered, whether action identity is maintained through occlusion or interruption, and whether the effects generalize. The strong result would be a motor-organization-specific shift in what constitutes an individual action *in thought* over and above familiarity and explicit knowledge. Mere faster recognition or different segment counts would not suffice. A separate intervention disrupting specific motor representations could strengthen the causal case.
 
