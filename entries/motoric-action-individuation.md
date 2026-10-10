@@ -1,8 +1,18 @@
 # Does motor representation structure which things count as actions in thought?
 
-*Research capture, 10 October 2026. Preliminary, not promotion-ready.*
+*Research capture, 10 October 2026. {==Preliminary, not promotion-ready.==}{##990601d6-ae6b-4d69-9969-4a8bef4aa650##}*
 
-## Original question
+{##990601d6-ae6b-4d69-9969-4a8bef4aa650:
+^ Don't add this kind of commentary. Focus on the substance
+##}
+
+
+## {==Original question==}{##ff25a1a0-2d26-404e-b3d0-0e9758257077##}
+
+{##ff25a1a0-2d26-404e-b3d0-0e9758257077:
+^ formulate the question rather than quoting a prompt. (The prompt is nearly always a bit rough and ready.)
+##}
+
 
 > I know there's a bit of research on motor processes being involved in thinking generally. I was never super impressed by that research, somehow neither the theory nor the findings seemed so compelling to me. A more promising idea—it seems to me—is that motor processes might be involved in thinking about actions.
 >
@@ -16,7 +26,12 @@
 
 ## Hypothesis and distinctions
 
-The motor system may partly structure **which portions of unfolding bodily activity are available as individual actions in thought**. Three claims must be distinguished: (1) motor representations facilitate recognizing already individuated actions; (2) they influence perceived temporal boundaries in an activity; and (3) they help determine the *privileged units*, and perhaps the nested part–whole structure, in terms of which activity is thought about. The target is (3). Evidence for (1) does not entail (2); evidence for (2) does not entail (3).
+The motor system may partly structure **which portions of unfolding bodily activity are available as individual actions in thought**. Three claims must be distinguished: {==(1) motor representations facilitate recognizing already individuated actions; (2) they influence perceived temporal boundaries in an activity; and (3) they help determine the *privileged units*, and perhaps the nested part–whole structure, in terms of which activity is thought about==}{##328ad052-dd1a-4014-92fa-6460158462a2##}. The target is (3). Evidence for (1) does not entail (2); evidence for (2) does not entail (3).
+
+{##328ad052-dd1a-4014-92fa-6460158462a2:
+^ good but please make list for easier reading
+##}
+
 
 The second half of a reach together with the first half of a grasp can certainly be *described* as a temporal part of behavior. The suggestion is that it is not normally *one motorically coherent action*: reaching and grasping are units organized around outcomes, whereas that cross-boundary stretch is not. This would at most establish psychologically privileged units, not a metaphysical impossibility of treating arbitrary stretches as actions. The units might also change with training and purposes.
 
