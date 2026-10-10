@@ -89,7 +89,7 @@ The most important next move is to connect independently verified **motor subgoa
 
 ## Source access and verification record
 
-Every research source cited above was located in Personal Papers by **exact work and key**; the keys for early works were additionally checked against the actual legacy BibTeX entries. For recent works the exact \`citation-key\` in the library's metadata was read and copied. The fact that a key is present does not itself prove that original full text was retrieved. See the [source checklist](../sources/motoric-action-individuation/checklist.md) for bibliographic provenance, DOI links and outstanding checks. Source-specific assessments use filenames derived exactly from these keys.
+Every research source cited above was located in Personal Papers by **exact work and key**; the keys for early works were additionally checked against the actual legacy BibTeX entries. For recent works the exact `citation-key` in the library's metadata was read and copied. The fact that a key is present does not itself prove that original full text was retrieved. See the [source checklist](../sources/motoric-action-individuation/checklist.md) for bibliographic provenance, DOI links and outstanding checks. Source-specific assessments use filenames derived exactly from these keys.
 
 | Work | Actual access and checks in this inquiry |
 |---|---|
