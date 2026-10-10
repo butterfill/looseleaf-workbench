@@ -1,6 +1,6 @@
 # Looseleaf Workbench — Agent Instructions
 
-This is a staging area for research arising from inquiries already under way. A note here will be promoted to the main looseleaf collection when the literature search is complete, all sources have been acquired, all sources the note relies on have an accurate source note, and a note has been carefully reviewed.
+This is a staging area for research arising from inquiries already under way. Promotion to the main Looseleaf collection is appropriate when the literature search is sufficiently comprehensive for the question and supported conclusions, significant gaps are identified, every publication substantively relied on has a verified BibTeX key and an accurate source note checked against the original full text, and the entry has been carefully reviewed.
 
 ## Capturing research
 
@@ -8,18 +8,20 @@ When asked to create an entry, preserve the valuable intellectual substance of t
 
 Let the material determine the structure, length, and headings. There are no required templates, tags, or frontmatter.
 
-Place entries in `entries/<descriptive-name>.md`. An entry typically has source-specific supporting notes for any sources it relies on. These belong in `sources/<entry-name>/<BibTeX-key-with-colons-removed>`. Use relative links. Check existing entries before creating duplicates.
+Place entries in `entries/<descriptive-name>.md`. Source-specific notes belong in `sources/<entry-name>/<BibTeX-key-with-colons-removed>.md` (e.g. `setiya:2016_practical` becomes `setiya2016_practical.md`). Never invent a BibTeX key or create a publication source note before its verified key exists and the original full text has been consulted. Non-substantive corrections and warnings to existing notes do not require renewed full-text access. Use relative links. Check existing entries before creating duplicates.
+
+Initial capture can precede source checking; mark uncertainties candidly and track missing or unchecked sources in the checklist rather than making premature source notes.
 
 
 ## Research and revision
 
 Use **Research / Personal Papers** for bibliographic records and original full texts. Use **Exa**, **Parallel Search**, your own search tools, citation chasing, and other appropriate resources to discover sources and evaluate coverage.
 
-Reconsider source selection as well as the accuracy of individual claims. Search prominence, open access, and convenient availability are poor substitutes for relevance and evidential quality. As a general rule, avoid relying on research in low-quality journals like Frontiers. Also avoid unpublished research such as talks.
+Reconsider source selection as well as the accuracy of individual claims. Search prominence, open access, and convenient availability are poor substitutes for relevance and evidential quality. Be especially critical of research in less selective journals, including Frontiers titles, without prejudging individual papers. Treat unpublished research cautiously and distinguish it clearly from published evidence.
 
-Follow the user's `cite-published-source` skill when available. Use verified BibTeX keys in `\citet{...}` and `\citep{...}` whenever known; never invent keys. For sources absent from the library, record full bibliographic details and a copyable DOI (or, if no DOI available, a suitable metadata link).
+Follow the user's `cite-published-source` skill when available. Use verified BibTeX keys in `\citet{...}` and `\citep{...}` whenever known; never invent keys. For sources absent from the library, use author–date references and record full bibliographic details and a copyable DOI (or, if no DOI is available, a suitable metadata link) in the checklist until a verified library key is available.
 
-Keep records of what sources were actually read and checked in `sources/<entry-name>/checklist.md`. This file should serve as both a record of what has been read and a list of sources that may still need to be acquired or read. 
+Keep records of what sources were actually read and checked in `sources/<entry-name>/checklist.md`. It should also track sources needing acquisition, library keys, or further checking; it is a process record, not a substitute for source notes. 
 
 After investigating sources, reconsider the main account rather than merely adding references.
 
