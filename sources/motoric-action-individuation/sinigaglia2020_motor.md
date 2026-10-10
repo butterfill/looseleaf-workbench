@@ -1,6 +1,6 @@
 # \citet{sinigaglia:2020_motor}: skill, observational knowledge and interface alternatives
 
-**Reference.** Sinigaglia, Corrado & Stephen A. Butterfill (2020), “Motor Representation and Knowledge of Skilled Action,” in Ellen Fridland & Carlotta Pavese (eds.), *The Routledge Handbook of Philosophy of Skill and Expertise*, 292–305 (Routledge). DOI 10.4324/9781315180809-29. Exact legacy BibTeX entry \`@incollection{sinigaglia:2020_motor,...}\` returned by Personal Papers.
+**Reference.** Sinigaglia, Corrado & Stephen A. Butterfill (2020), “Motor Representation and Knowledge of Skilled Action,” in Ellen Fridland & Carlotta Pavese (eds.), *The Routledge Handbook of Philosophy of Skill and Expertise*, 292–305 (Routledge). DOI 10.4324/9781315180809-29. Exact legacy BibTeX entry `@incollection{sinigaglia:2020_motor,...}` returned by Personal Papers.
 
 **Relation to the 2015 paper.** The chapter starts from a focused claim about *knowledge acquired when observing others act*: performing an action skill sometimes improves one's observational accuracy (basketball/volleyball, blindfolded training for abnormal walking patterns, infant reaching/grasping; §§23.2–23.3). It conjectures that the shared element in action performance and observation is *motor representation of the action outcome*, and responds to a challenge about differences in representational direction of fit (§23.4). These skill–knowledge correlations and selective interventions are distinct from the further, currently speculative claim that motor representation partly determines *which things count as individual actions in thought*.
 
@@ -12,6 +12,6 @@
 
 | Access | Material checked |
 |---|---|
-| Original full text, Personal Papers \`papers:sinigaglia:2020_motor\` | §§23.1–23.6, especially §23.2 skills, §23.3 motor outcome representations, §23.4 direction of fit, §23.5 four interface proposals and §23.6 conclusion. |
+| Original full text, Personal Papers `papers:sinigaglia:2020_motor` | §§23.1–23.6, especially §23.2 skills, §23.3 motor outcome representations, §23.4 direction of fit, §23.5 four interface proposals and §23.6 conclusion. |
 
 [Main entry](../../entries/motoric-action-individuation.md) · [Checklist](checklist.md)
