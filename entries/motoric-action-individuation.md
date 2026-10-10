@@ -1,8 +1,18 @@
 # Could motor organization help determine what counts as an action in thought?
 
-*Looseleaf workbench research entry — 10 October 2026, revised after citation and original-source audit. Preliminary: a selective critical investigation, not a systematic review or a settled argument for a motoric theory of action individuation.*
+*{==Looseleaf workbench research entr==}{##aff3e5f7-210c-4a1b-8846-11957376b132##}y — 10 October 2026, revised after citation and original-source audit. Preliminary: a selective critical investigation, not a systematic review or a settled argument for a motoric theory of action individuation.*
 
-## The original question
+{##aff3e5f7-210c-4a1b-8846-11957376b132:
+^ do not include this : parts of it belong in the commit message. None of it belongs in the note itself
+##}
+
+
+## {==The original question==}{##922e9432-f742-4119-a2be-051231f3083c##}
+
+{##922e9432-f742-4119-a2be-051231f3083c:
+^ formulate the questions rather than quoting a prompt. (The prompt is nearly always a bit rough and ready.)
+##}
+
 
 > I know there's a bit of research on motor processes being involved in thinking generally. I was never super impressed by that research, somehow neither the theory nor the findings seemed so compelling to me. A more promising idea—it seems to me—is that motor processes might be involved in thinking about actions.
 >
