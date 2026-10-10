@@ -48,6 +48,8 @@ The [interface-problem source knowledge base](https://github.com/butterfill/kb-i
 
 {##7f39ff14-3cc4-49cd-b781-5f1f18b656ba:
 ^ this is not quite the right approach. I don't want a note about a conversation. I want a note with the substance of the research discussed. (It may help to imagine that I'm doing the reading and writing up the notes myself for myself. (But please don't write as me.))
+
+Much of the substance is good but in some cases I think it was clearer in the original response than in this version.
 ##}
 
 
@@ -63,7 +65,12 @@ Motor contributions to listening are evidenced by articulator-specific stimulati
 
 McMurray (2022) argues that classical categorical-perception findings have been overinterpreted: forced-choice identification boundaries and some task-dependent discrimination effects do not establish that listeners lose fine-grained within-category information. Toscano et al. (2010) provide evidence of graded auditory encoding alongside categorisation. Phonetic categories remain real features of processing; the stronger claim that perception is *only* categorical is under pressure.
 
-For the older argument about 'hearing gestures', this weakens the inference from correspondence between categories and articulations to gestures as perceptual objects. Similarity could arise through learned acoustics, categorical decisions or coupled sensorimotor prediction. The user's 2010 *Categorical Perception: A Fresh Start* draft had already questioned the standard operational definition and entertained coexistence of categorical and non-categorical processing; this deserves closer comparison with McMurray rather than a simple story of refutation.
+For the older argument about 'hearing gestures', {==this weakens the inference from correspondence between categories and articulations to gestures as perceptual objects. Similarity could arise through learned acoustics, categorical decisions or coupled sensorimotor prediction. The user's 2010 *Categorical Perception: A Fresh Start* draft had already questioned the standard operational definition and entertained coexistence of categorical and non-categorical processing; this deserves closer comparison with McMurray rather than a simple story of refutation.==}{##f9da8503-edf3-4b73-9e8b-fcfd0a79d3e0##}
+
+{##f9da8503-edf3-4b73-9e8b-fcfd0a79d3e0:
+^ As an example: I think this was clearer in the original response. Please compare and revise.
+##}
+
 
 ### 3. Speech production makes intermediate interfaces accessible
 
