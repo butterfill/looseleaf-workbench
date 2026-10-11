@@ -34,31 +34,19 @@ I don't think this matters too much here but I want everyone to be clear about w
 
 ## Why speech provides an unusually sharp test
 
-Speech offers more experimentally tractable intermediate stages than a simple opposition between “intention” and “movement” suggests. **The Interface Problem itself remains the single, causally neutral question of why intention-specified and motor-specified outcomes match non-accidentally.** Questions about how a motor plan is selected, how a skill is acquired and how feedback corrects execution are related research questions, not extra parts that every solution to the Interface Problem must answer. A familiar psycholinguistic description distinguishes conceptual preparation, lexical selection, phonological encoding, phonetic planning and articulation \citep{levelt:2001_spoken}. The boundaries among these stages, and whether they operate serially, are debated. Still, the framework brings an important question into focus: *{==where is a content-sensitive bridge actually constructed, and where has the model simply taken the result of another process as its input?==}{##7630264a-b297-469d-a0f1-4991a4e34d72##}*
-
-{##7630264a-b297-469d-a0f1-4991a4e34d72:
-^do I'm not convinced this is a clear enough distinction to rely on. Check then clarify or drop.
-##}
+Speech offers more experimentally tractable intermediate stages than a simple opposition between “intention” and “movement” suggests. **The Interface Problem itself remains the single, causally neutral question of why intention-specified and motor-specified outcomes match non-accidentally.** Questions about how a motor plan is selected, how a skill is acquired and how feedback corrects execution are related research questions, not extra parts that every solution to the Interface Problem must answer. A familiar psycholinguistic description distinguishes conceptual preparation, lexical selection, phonological encoding, phonetic planning and articulation \citep{levelt:2001_spoken}. The boundaries among these stages, and whether they operate serially, are debated. Still, the framework brings an important question into focus: *where is a content-sensitive bridge actually constructed, and where has the model simply taken the result of another process as its input?*
 
 
-A concrete example makes the contribution of motor-control models clearer. To say /b/ requires closing the lips; that closure can be achieved by different combinations of jaw and lip movements. A task-level controller can aim at *lip closure* while a lower controller computes suitable articulator adjustments given the current vocal-tract state. When the jaw is unexpectedly displaced, the lip movements needed to preserve the closure change. This is a genuine explanation of task-relative flexibility, rather than a redescription of muscle commands. Modern motor-control models go considerably further than saying that words produce movements. DIVA/GODIVA models of speech learning and sequencing, surveyed by \citet{meier:2023_neurocomputational}, connect learned speech-sound programmes with sensory targets, motor commands and feedback. The FACTS model \citep{parrell:2019_facts} expresses speech control in terms of vocal-tract tasks, estimates of articulator state, forward prediction and corrective feedback. These are genuine explanatory advances: an articulatory **task**, such as achieving a constriction, can be stable across diverse muscular implementations, and the system can continually adjust an unfolding utterance{==.==}{##155dd834-bc94-40cf-a0dc-9ac32e3debc6##}
-
-{##155dd834-bc94-40cf-a0dc-9ac32e3debc6:
-^ this paragraph is too abstract. Explain properly (if, as I think, it matters) or else drop.
-##}
+A concrete example makes the contribution of motor-control models clearer. To say /b/ requires closing the lips; that closure can be achieved by different combinations of jaw and lip movements. A task-level controller can aim at *lip closure* while a lower controller computes suitable articulator adjustments given the current vocal-tract state. When the jaw is unexpectedly displaced, the lip movements needed to preserve the closure change. This is a genuine explanation of task-relative flexibility, rather than a redescription of muscle commands. Modern motor-control models go considerably further than saying that words produce movements. DIVA/GODIVA models of speech learning and sequencing, surveyed by \citet{meier:2023_neurocomputational}, connect learned speech-sound programmes with sensory targets, motor commands and feedback. The FACTS model \citep{parrell:2019_facts} expresses speech control in terms of vocal-tract tasks, estimates of articulator state, forward prediction and corrective feedback. These are genuine explanatory advances: an articulatory **task**, such as achieving a constriction, can be stable across diverse muscular implementations, and the system can continually adjust an unfolding utterance.
 
 
-The original FACTS paper makes the division of labour particularly explicit: its input is a *gestural score* supplied by a linguistic planning module, specifying the constrictions and their activation times (\citet{parrell:2019_facts}, Model overview, pp. 5–7; [original-text assessment](../sources/auditory-feedback-perturbation-in-speech/parrell2019_facts.md)). The model shows how the score is executed and updated, but does not derive it from an intention. There is, however, an important limit to what these advances establish. Specifying how a controller meets a vocal-tract target does not yet show how an intention to say a certain word comes to specify that target. A phonological representation may already constrain what the controller must do. {==Explaining its conversion into a usable articulatory specification would be progress on *one* interface==}{##48656aeb-940f-4bc4-ab7e-3a402e2733e6##}; it would not automatically solve the interface between propositional intentions and motor representations. The difference deserves an explicit treatment rather than an assumption that the whole chain has been explained. There are plausible *transitions* from communicative goal to lexical choice, lexical choice to phonological sequence, phonological sequence to gestural score, and gestural score to articulator commands. Each may require a distinct mapping because the variables relevant at one stage are not those used at the next. The FACTS model directly addresses the last transition and assumes the gestural score; a theory of lexical access addresses earlier transitions. But none of these transitions should automatically be equated with the philosophical interface between **intention** and **motor representation**.
-
-{##48656aeb-940f-4bc4-ab7e-3a402e2733e6:
-^ good: interesting that there are multiple interfaces. Be clearer about where there are likely to be interfaces (and provide preliminary justification for this)
-##}
+The original FACTS paper makes the division of labour particularly explicit: its input is a *gestural score* supplied by a linguistic planning module, specifying the constrictions and their activation times (\citet{parrell:2019_facts}, Model overview, pp. 5–7; [original-text assessment](../sources/auditory-feedback-perturbation-in-speech/parrell2019_facts.md)). The model shows how the score is executed and updated, but does not derive it from an intention. There is, however, an important limit to what these advances establish. Specifying how a controller meets a vocal-tract target does not yet show how an intention to say a certain word comes to specify that target. A phonological representation may already constrain what the controller must do. Explaining its conversion into a usable articulatory specification would be progress on *one* interface; it would not automatically solve the interface between propositional intentions and motor representations. The difference deserves an explicit treatment rather than an assumption that the whole chain has been explained. There are plausible *transitions* from communicative goal to lexical choice, lexical choice to phonological sequence, phonological sequence to gestural score, and gestural score to articulator commands. Each may require a distinct mapping because the variables relevant at one stage are not those used at the next. The FACTS model directly addresses the last transition and assumes the gestural score; a theory of lexical access addresses earlier transitions. But none of these transitions should automatically be equated with the philosophical interface between **intention** and **motor representation**.
 
 
 Speech also {==challenges an easy diagnosis of the problem as simply a clash between discrete thought and continuous movement==}{##91411e95-5159-494c-8854-2b57e73cf645##}. Phonological plans may be organised in discrete units, but gestural timing and articulatory parameters are graded, and motor representations themselves may combine symbolic structure with analog values. {==This kind of hybrid motor format is defended as a possibility by \citet{mylopoulos:2025_motoric}. Greater specificity at a later stage does not, by itself, prove a change of representational format.==}{##41aae636-c539-4739-9097-c8d603851164##}
 
 {##41aae636-c539-4739-9097-c8d603851164:
-^ this seems too compressed. I can't follow the line of thought.
+^ this seems too compressed. I can't follow the line of thought, although I suspect there's a good idea here. Please clarify the paragraph.
 ##}
 
 
@@ -67,7 +55,12 @@ Speech also {==challenges an easy diagnosis of the problem as simply a clash bet
 ##}
 
 
-The lesson about representational format should be modest: greater articulatory precision at a later stage does not show that one representation has been translated from a wholly discrete code into a wholly continuous one. A gestural score can contain discrete task identities *and* graded constriction targets and timing parameters. The hybrid symbolic–analog proposal in \citet{mylopoulos:2025_motoric} (especially §§3–6) makes such combinations intelligible. This does not itself explain the match; it warns against inferring the architecture solely from the fineness of movement control.
+The lesson about representational format should be modest: greater articulatory precision at a later stage does not show that one representation has been translated from a wholly discrete code into a wholly continuous one. A gestural score can contain discrete task identities *and* graded constriction targets and timing parameters. {==The hybrid symbolic–analog proposal in \citet{mylopoulos:2025_motoric} (especially §§3–6) makes such combinations intelligible.==}{##c8491c40-ff4d-437f-ba48-4a6f03265488##} This does not itself explain the match; it warns against inferring the architecture solely from the fineness of movement control.
+
+{##c8491c40-ff4d-437f-ba48-4a6f03265488:
+∞ think more about this. Is there an argument for their view here? If so, would it strengthen their own arguments?
+##}
+
 
 The advantage of speech is that these distinctions can be investigated in a single activity. We can measure speech output acoustically, examine articulatory movement, disrupt auditory feedback, manipulate whether a sound is a word or nonword, and study how new articulatory patterns are learned. The unusual amount of observable structure makes it possible to ask which constraints are contributed at each stage—and therefore to identify more precisely what the interface problem requires us to explain.
 
@@ -75,11 +68,7 @@ The advantage of speech is that these distinctions can be investigated in a sing
 
 For a stand-alone, experiment-oriented overview, see [*Auditory-feedback perturbation in speech*](auditory-feedback-perturbation-in-speech.md). The results are likely to be informative about the constraints on speech control, but **exactly how they help explain non-accidental intention–motor matching is not yet established**. We should not infer a solution to the Interface Problem from the existence of compensation or adaptation.
 
-{==Auditory-feedback perturbation studies are especially relevant.==}{##1bd5a339-8e3a-4f14-9f61-a090cb43f288##} A speaker prepares to produce a particular vowel; the acoustic feedback is unexpectedly shifted; the speaker changes production. This demonstrates control relative to a target without independently identifying the propositional intention that might have helped select it. Which aspects of the intended outcome are being maintained, and which adjustments are left to motor control?
-
-{##1bd5a339-8e3a-4f14-9f61-a090cb43f288:
-^do Agreed. Please create an independent looseleaf note covering the state of the art in auditory-feedback peturbation studies and link from here. That note should enable me to quickly see what we know about auditory-feedback peturbation.
-##}
+Auditory-feedback perturbation studies are especially relevant. A speaker prepares to produce a particular vowel; the acoustic feedback is unexpectedly shifted; the speaker changes production. This demonstrates control relative to a target without independently identifying the propositional intention that might have helped select it. Which aspects of the intended outcome are being maintained, and which adjustments are left to motor control?
 
 
 \citet{niziolek:2013_vowel} found larger compensatory responses to altered vowel feedback when an alteration approached or crossed a phonetic-category boundary than when the comparable alteration remained well within a category. \citet{bourguignon:2014_lexicalperceptual} reported that lexical status can affect speech sensorimotor adaptation. Such results make it difficult to imagine speech motor control as entirely insulated from phonological or lexical organisation. What counts as an error for a speaker is influenced by something more structured than an immediate sound-pressure target.
@@ -87,7 +76,7 @@ For a stand-alone, experiment-oriented overview, see [*Auditory-feedback perturb
 {==But these effects are not yet demonstrations that a *propositional intention* instructs a motor controller. ==}{##b32d65d3-2f4e-4bd1-b393-0def7547e98d##}A phonetic category or lexical representation could influence an error signal without being an intention; a motor system might learn the relevant correlations directly. To use the experiments philosophically, one must locate the intention, identify the contents of the intermediate representations, and determine which process accounts for their non-accidental correspondence.
 
 {##b32d65d3-2f4e-4bd1-b393-0def7547e98d:
-^ yes, of course. But why think that in the first place? Seems like misdirection?
+^ yes, of course. But why think that in the first place? Please avoid saying 'not P' when P is not a serious candidate.
 ##}
 
 
@@ -95,11 +84,7 @@ An intriguing experiment sharpens the distinction further. \citet{parrell:2026_a
 
 This is a potentially useful dissociation among **intending**, **preparing**, **executing** and **hearing** an action. Yet the evidence directly concerns a prepared sensorimotor plan and its prediction errors. It does not establish whether the plan's relevant content was fixed by a propositional intention, by the experimental instruction, by a learned phonological–motor link or by some combination of these. A follow-up would need to distinguish those possibilities.
 
-{==Taken together, these studies show why speech is more than a handy illustration.==}{##b7e233c8-26ce-46f6-a1e2-008f4b13eccd##} They allow linguistic constraints, motor predictions, movement and sensory consequences to be manipulated separately. They also reveal how far one may travel through the production system without yet reaching the philosophical interface that motivated the inquiry.
-
-{##b7e233c8-26ce-46f6-a1e2-008f4b13eccd:
-^ I'm keen to learn more about auditory peturbation and I do think they are relevant, but this section does not explain how they are relevant. In this situation, it's best not to write as if that had been explained: just write something along the lines of 'these are likely to be interesting but it's not yet clear how exactly they are relevant'
-##}
+Taken together, these studies show why speech is more than a handy illustration. They allow linguistic constraints, motor predictions, movement and sensory consequences to be manipulated separately. They also reveal how far one may travel through the production system without yet reaching the philosophical interface that motivated the inquiry.
 
 
 ## Could speech perception supply the missing connection?
