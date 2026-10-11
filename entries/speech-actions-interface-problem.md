@@ -34,14 +34,14 @@ I don't think this matters too much here but I want everyone to be clear about w
 
 ## Why speech provides an unusually sharp test
 
-Speech offers more experimentally tractable intermediate stages than a simple opposition between “intention” and “movement” suggests. A familiar psycholinguistic description distinguishes conceptual preparation, lexical selection, phonological encoding, phonetic planning and articulation (Levelt 2001). The boundaries among these stages, and whether they operate serially, are debated. Still, the framework brings an important question into focus: *{==where is a content-sensitive bridge actually constructed, and where has the model simply taken the result of another process as its input?==}{##7630264a-b297-469d-a0f1-4991a4e34d72##}*
+Speech offers more experimentally tractable intermediate stages than a simple opposition between “intention” and “movement” suggests. A familiar psycholinguistic description distinguishes conceptual preparation, lexical selection, phonological encoding, phonetic planning and articulation \citep{levelt:2001_spoken}. The boundaries among these stages, and whether they operate serially, are debated. Still, the framework brings an important question into focus: *{==where is a content-sensitive bridge actually constructed, and where has the model simply taken the result of another process as its input?==}{##7630264a-b297-469d-a0f1-4991a4e34d72##}*
 
 {##7630264a-b297-469d-a0f1-4991a4e34d72:
 ^do I'm not convinced this is a clear enough distinction to rely on. Check then clarify or drop.
 ##}
 
 
-Modern motor-control models go considerably further than saying that words produce movements. DIVA/GODIVA models of speech learning and sequencing, surveyed by Meier and Guenther (2023), connect learned speech-sound programmes with sensory targets, motor commands and feedback. The FACTS model (Parrell et al. 2019) expresses speech control in terms of vocal-tract tasks, estimates of articulator state, forward prediction and corrective feedback. These are genuine explanatory advances: an articulatory **task**, such as achieving a constriction, can be stable across diverse muscular implementations, and the system can continually adjust an unfolding utterance{==.==}{##155dd834-bc94-40cf-a0dc-9ac32e3debc6##}
+Modern motor-control models go considerably further than saying that words produce movements. DIVA/GODIVA models of speech learning and sequencing, surveyed by \citet{meier:2023_neurocomputational}, connect learned speech-sound programmes with sensory targets, motor commands and feedback. The FACTS model \citep{parrell:2019_facts} expresses speech control in terms of vocal-tract tasks, estimates of articulator state, forward prediction and corrective feedback. These are genuine explanatory advances: an articulatory **task**, such as achieving a constriction, can be stable across diverse muscular implementations, and the system can continually adjust an unfolding utterance{==.==}{##155dd834-bc94-40cf-a0dc-9ac32e3debc6##}
 
 {##155dd834-bc94-40cf-a0dc-9ac32e3debc6:
 ^ this paragraph is too abstract. Explain properly (if, as I think, it matters) or else drop.
@@ -78,7 +78,7 @@ The advantage of speech is that these distinctions can be investigated in a sing
 ##}
 
 
-Niziolek and Guenther (2013) found larger compensatory responses to altered vowel feedback when an alteration approached or crossed a phonetic-category boundary than when the comparable alteration remained well within a category. Bourguignon, Baum and Shiller (2014) reported that lexical status can affect speech sensorimotor adaptation. Such results make it difficult to imagine speech motor control as entirely insulated from phonological or lexical organisation. What counts as an error for a speaker is influenced by something more structured than an immediate sound-pressure target.
+\citet{niziolek:2013_vowel} found larger compensatory responses to altered vowel feedback when an alteration approached or crossed a phonetic-category boundary than when the comparable alteration remained well within a category. \citet{bourguignon:2014_lexicalperceptual} reported that lexical status can affect speech sensorimotor adaptation. Such results make it difficult to imagine speech motor control as entirely insulated from phonological or lexical organisation. What counts as an error for a speaker is influenced by something more structured than an immediate sound-pressure target.
 
 {==But these effects are not yet demonstrations that a *propositional intention* instructs a motor controller. ==}{##b32d65d3-2f4e-4bd1-b393-0def7547e98d##}A phonetic category or lexical representation could influence an error signal without being an intention; a motor system might learn the relevant correlations directly. To use the experiments philosophically, one must locate the intention, identify the contents of the intermediate representations, and determine which process accounts for their non-accidental correspondence.
 
@@ -87,7 +87,7 @@ Niziolek and Guenther (2013) found larger compensatory responses to altered vowe
 ##}
 
 
-An intriguing experiment sharpens the distinction further. Parrell and colleagues (2026) report speech adaptation in a condition where participants **prepared but did not overtly execute** the expected movement and nevertheless received appropriately timed altered auditory feedback; a passive-listening comparison did not show the same adaptation. The result suggests that preparing a speech action can establish an auditory prediction capable of supporting motor learning even without an executed utterance.
+An intriguing experiment sharpens the distinction further. \citet{parrell:2026_audiomotor} report speech adaptation in a condition where participants **prepared but did not overtly execute** the expected movement and nevertheless received appropriately timed altered auditory feedback; a passive-listening comparison did not show the same adaptation. The result suggests that preparing a speech action can establish an auditory prediction capable of supporting motor learning even without an executed utterance.
 
 This is a potentially useful dissociation among **intending**, **preparing**, **executing** and **hearing** an action. Yet the evidence directly concerns a prepared sensorimotor plan and its prediction errors. It does not establish whether the plan's relevant content was fixed by a propositional intention, by the experimental instruction, by a learned phonological–motor link or by some combination of these. A follow-up would need to distinguish those possibilities.
 
@@ -151,7 +151,7 @@ This needs qualification: I'm also tempted to think that most of the proposals a
 
 These are live alternatives, rather than theories that the current speech experiments already discriminate. A learner's improved control would be expected on several of them. What could be informative is the pattern of **perceptual change, conceptual change, schema learning, contextual flexibility and deliberate parameter control**, especially when those achievements dissociate.
 
-A related result offers some encouragement but less than the stronger hypothesis requires. Lametti and colleagues (2014) found that adaptation in producing speech can alter subsequent speech perception. This supports the possibility that motor learning changes perceptual processing. It does not by itself show that motor representations introduce an event-based *structure* into experience, or that this structure is responsible for the learner's newly available action concepts. Those further steps are exactly what makes the philosophical proposal worth testing.
+A related result offers some encouragement but less than the stronger hypothesis requires. \citet{lametti:2014_plasticity} found that adaptation in producing speech can alter subsequent speech perception. This supports the possibility that motor learning changes perceptual processing. It does not by itself show that motor representations introduce an event-based *structure* into experience, or that this structure is responsible for the learner's newly available action concepts. Those further steps are exactly what makes the philosophical proposal worth testing.
 
 ## How far could the case generalise?
 
@@ -173,22 +173,3 @@ The first investigation should be **a worked account of how an intention to prod
 The more original project would ask whether **learning to make a new speech distinction changes the kinds of speech action one can intentionally think about and control**, and whether motor-structured experience plays a causal role in that change. This connects a tractable developmental or training paradigm to the positive proposal in *Motor in Thought*. It also has a clear potential negative result: flexible intentional control might emerge without the predicted transformation in experience, leaving schema-based or associative solutions better supported.
 
 The prospect is therefore real, though not yet a demonstrated payoff. Research on speech production may locate specific bridges between levels of action representation. Research on speech perception and learning may help explain how some of the *concepts* involved in those bridges become available. The second possibility is the more ambitious philosophical one; the first offers a concrete way to get started.
-
-## {==Sources not in my library==}{##0748d5f3-9282-4618-9a18-fbe406ef5db8##}
-
-{##0748d5f3-9282-4618-9a18-fbe406ef5db8:
-^update : most should be present now ; two outstanding papers will be there soon.
-##}
-
-
-These works were not located under verified Personal Papers keys in the research-library searches. Their publication metadata and DOI were checked; author–date references are retained pending a library match. Access and remaining checks are documented in the [source checklist](../sources/speech-actions-interface-problem/checklist.md).
-
-| Source | Full citation | DOI / metadata link |
-|---|---|---|
-| Levelt (2001) | Levelt, W. J. M. (2001). Spoken word production: A theory of lexical access. *Proceedings of the National Academy of Sciences*, 98(23), 13464–13471. | https://libkey.io/libraries/3907/10.1073/pnas.231459498 |
-| Meier & Guenther (2023) | Meier, A. M., & Guenther, F. H. (2023). Neurocomputational modeling of speech motor development. *Journal of Child Language*, 50(6), 1318–1335. | https://libkey.io/libraries/3907/10.1017/S0305000923000260 |
-| Parrell et al. (2019) | Parrell, B., Ramanarayanan, V., Nagarajan, S., & Houde, J. (2019). The FACTS model of speech motor control: Fusing state estimation and task-based control. *PLOS Computational Biology*, 15(9), e1007321. | https://libkey.io/libraries/3907/10.1371/journal.pcbi.1007321 |
-| Niziolek & Guenther (2013) | Niziolek, C. A., & Guenther, F. H. (2013). Vowel category boundaries enhance cortical and behavioral responses to speech feedback alterations. *Journal of Neuroscience*, 33(29), 12090–12098. | https://libkey.io/libraries/3907/10.1523/JNEUROSCI.1008-13.2013 |
-| Bourguignon et al. (2014) | Bourguignon, N. J., Baum, S. R., & Shiller, D. M. (2014). Lexical-perceptual integration influences sensorimotor adaptation in speech. *Frontiers in Human Neuroscience*, 8, 208. | https://libkey.io/libraries/3907/10.3389/fnhum.2014.00208 |
-| Parrell et al. (2026) | Parrell, B., Bae, M., Naber, C., Kim, O. A., Niziolek, C. A., & McDougle, S. D. (2026). Audiomotor prediction errors drive speech adaptation even in the absence of overt movement. *PLOS Biology*, 24(6), e3003862. | https://libkey.io/libraries/3907/10.1371/journal.pbio.3003862 |
-| Lametti et al. (2014) | Lametti, D. R., Rochet-Capellan, A., Neufeld, E., Shiller, D. M., & Ostry, D. J. (2014). Plasticity in the human speech motor system drives changes in speech perception. *Journal of Neuroscience*, 34(31), 10339–10346. | https://libkey.io/libraries/3907/10.1523/JNEUROSCI.0108-14.2014 |
