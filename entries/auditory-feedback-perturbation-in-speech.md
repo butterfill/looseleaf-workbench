@@ -18,6 +18,24 @@ A shift of F1 toward a different vowel may prompt a speaker to change their prod
 
 **Models identify the control-level question.** \citet{parrell:2019_facts} starts with a *gestural score*: constriction locations, degrees and onset/offset times supplied by a linguistic planning module. It estimates articulator state from forward predictions and auditory/somatosensory feedback, then drives task-level constrictions and articulator commands. It explains how a specified task may be realised and corrected, while assuming that a suitable score has already been provided. DIVA/GODIVA models are a second influential family, surveyed by \citet{meier:2023_neurocomputational}; their detailed assumptions still require full-text checking here.
 
+## Further high-quality evidence: generalisation, timing and individual differences
+
+The earlier vowel-formant examples are only part of the field. Recent original research provides useful tests of the scope of auditory-feedback learning.
+
+**Generalisation is possible, but design-dependent.** A 2024 study, *Sensorimotor adaptation to a nonuniform formant perturbation generalizes to untrained vowels*, applied feedback perturbations to four English corner vowels and assessed five other vowels not used during exposure. The authors reported adaptation and transfer to untrained vowels. This demonstrates that a trained acoustic item is not necessarily the limit of speech motor learning. It does not establish that a propositional intention controls the transferred representation. [Original open-access article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11573274/).
+
+**Timing perturbations are a separate test.** Karlin and colleagues (2021), *Auditory Feedback Is Used for Adaptation and Compensation in Speech Timing*, used real-time temporal perturbations with baseline, ramp, hold and washout phases. The experiment addresses speech timing rather than treating the vowel formant as a proxy for all speech. The authors report 20 participants, with one stimulus condition excluded because of perturbation-implementation issues. This is a reminder to audit engineering failures and exclusions as well as reported adaptation. [Original article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8642089/).
+
+**Speakers differ in how much they rely on sensory channels.** *Sensory Preference in Speech Production Revealed by Simultaneous Alteration of Auditory and Somatosensory Feedback* (2012) found an inverse relation between compensation to the two perturbation types. This challenges any simple inference from the absence of an auditory response to the absence of a motor target: a speaker may weight somatosensory information more heavily. [Original article](https://www.jneurosci.org/content/32/27/9351).
+
+**Prediction error has direct physiological tests.** *Neurophysiological Evidence of Sensory Prediction Errors Driving Speech Sensorimotor Adaptation* (2025) measured speaking-induced auditory suppression while speakers adapted to perturbed formants. Its interpretation favours updating sensory predictions, while noting that compensation remained partial (mean about 13.6% of the perturbation). The physiological interpretation and model fit should not be treated as unique proof of one computational architecture. [Original article](https://www.jneurosci.org/content/45/27/e2084242025).
+
+The main conceptual point is that *online compensation*, *aftereffects*, *generalisation*, *sensory weighting* and *prediction updating* are distinct observables. A model of one does not automatically explain the others, and none alone demonstrates the intention–motor match.
+
+## Sources not in my library
+
+The four studies in the preceding section were identified and checked at the original journal or open-access article pages using Exa and Parallel Search. Exact citation keys were **not** found in Personal Papers metadata; the descriptive titles and linked originals are retained rather than inventing keys. Detailed full-text methods and supplementary data still require audit. See the [source checklist](../sources/auditory-feedback-perturbation-in-speech/checklist.md).
+
 ## How to interpret an experiment quickly
 
 | Contrast | What it helps establish | What it does not establish |
