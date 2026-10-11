@@ -22,3 +22,14 @@ This is a selective evidence map, not a completed systematic review. All cited k
 - [ ] Assess developmental and clinical generalisability; do not infer from small laboratory vowel tasks to spontaneous speech.
 
 *Recorded by ChatGPT (GPT-6), 11 October 2026.*
+
+## Additional original studies identified through Exa / Parallel Search (11 October 2026)
+
+These are publisher/PMC-accessed **original articles**, not systematic reviews. Citation keys were not found in Personal Papers; no keys invented. Read publisher abstract and relevant methods/results excerpts; full appendices not checked.
+
+- *Sensorimotor adaptation to a nonuniform formant perturbation generalizes to untrained vowels* (2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC11573274/ — corner-vowel training and untrained-vowel tests; assess generalisation and exclusions.
+- Karlin et al., *Auditory Feedback Is Used for Adaptation and Compensation in Speech Timing* (2021): https://pmc.ncbi.nlm.nih.gov/articles/PMC8642089/ — temporal perturbation, 20 participants, excluded stimulus condition.
+- *Sensory Preference in Speech Production Revealed by Simultaneous Alteration of Auditory and Somatosensory Feedback* (2012): https://www.jneurosci.org/content/32/27/9351 — simultaneous perturbation and individual weighting.
+- *Neurophysiological Evidence of Sensory Prediction Errors Driving Speech Sensorimotor Adaptation* (2025): https://www.jneurosci.org/content/45/27/e2084242025 — physiological prediction-error measure, partial compensation.
+
+Priority next: inspect each complete original text and supplement, check whether the 2025 electrophysiological interpretation has independent replication, and compare formant versus pitch/timing manipulations without pooling their mechanisms.
