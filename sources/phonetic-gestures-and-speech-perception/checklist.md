@@ -6,7 +6,7 @@
 
 ## Library citation-key verification
 
-All publications substantively cited in the main entry were returned by **Research / Personal Papers (source: papers, metadata mode)** with the following keys. Keys were not inferred from filenames. A formatted BibTeX export was independently recovered for the first group below; for the remaining keys metadata and original full-text records identify them, but the separate formatted-BibTeX export currently fails. Reconcile the latter against the owner's bibliography before promotion.
+The publications substantively cited in the **original joint entry, before the 12 October 2026 split**, were returned by **Research / Personal Papers (source: papers, metadata mode)** with the following keys. Keys were not inferred from filenames. A formatted BibTeX export was independently recovered for the first group below; for the remaining keys metadata and original full-text records identify them, but the separate formatted-BibTeX export currently fails. Reconcile the latter against the owner's bibliography before promotion.
 
 **BibTeX export checked successfully:** \citet{Butterfill:2009vs}, \citet{Liberman:1985bn}, \citet{Browman:1992da}, \citet{Goldstein:2003bn}, \citet{Galantucci:2006mo}, \citet{dausilio:2009_motor}, \citet{bruderer:2015_sensorimotor}.
 
@@ -45,7 +45,7 @@ The Research connector's **fulltext** view was used for the original works noted
 
 ## Additional source assessments — 12 October 2026 (GPT-6)
 
-**Scope of this pass:** Following the OpenAlex search, 17 newly identified sources now have verified Research / Personal Papers keys and individual source assessments in this directory. All 17 were checked against the original full text: 15 via Research's \`fulltext\` view, and \citet{arsenault:2016_no} and \citet{baek:2026_dynamic} in the original publisher's full HTML because Research has metadata but no full text. The original text checked was substantial and targeted, not a complete page-by-page audit, independent data reanalysis or systematic replication review. All 17 had no prior source note here before these passes. **At the time of this source-checking pass, the main entry was unchanged; it was subsequently refocused and paired with a new motor-processes entry on 12 October 2026.**
+**Scope of this pass:** Following the OpenAlex search, 17 newly identified sources acquired verified Research / Personal Papers keys and source assessments; those assessments are now distributed across the gesture-recovery and motor-processes source directories. All 17 were checked against the original full text: 15 via Research's \`fulltext\` view, and \citet{arsenault:2016_no} and \citet{baek:2026_dynamic} in the original publisher's full HTML because Research has metadata but no full text. The original text checked was substantial and targeted, not a complete page-by-page audit, independent data reanalysis or systematic replication review. All 17 had no prior source note here before these passes. **At the time of this source-checking pass, the main entry was unchanged; it was subsequently refocused and paired with a new motor-processes entry on 12 October 2026.**
 
 | Source and new note | Original material directly checked | Outstanding methodological issue |
 |---|---|---|
