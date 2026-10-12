@@ -10,7 +10,7 @@ This is a real multimodal cue integration effect relevant to the **public articu
 
 ## Critical context
 
-The study employed restricted **closed-choice syllable classification**. The subsequent Derrick, Madappallimattam and Theys (2019; DOI 10.1121/1.5125131; library record not yet verified) reports more restricted effects for open-choice tasks. It must not be presented as unconditional improvement in natural speech comprehension.
+The study employed restricted **closed-choice syllable classification**. The published follow-up \citet{derrick:2019_aerotactile} ([assessment](derrick2019_aerotactile.md)) found airflow-congruence effects in closed-choice but not open-choice syllable identification; its two experiments nevertheless differed in participant groups, stimuli and procedures, so it does not isolate response format alone. It must not be presented as unconditional improvement in natural speech comprehension.
 
 ## Source access
 
