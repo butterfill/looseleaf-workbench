@@ -20,4 +20,4 @@ The result should not be summarised as proof that motor simulation is necessary 
 
 Original Research full text read selectively 10 October 2026: abstract, Experiments 1–3 (design and results), *Discussion* and *Constraints on Generality*. The contrast of the two lip movements and finger baseline was checked directly. No independent numerical reanalysis or external replication audit. The library metadata returned key **carneiropereira:2026_origin**; formatted BibTeX export was unavailable. Publication version/issue metadata should be reconfirmed before promotion.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

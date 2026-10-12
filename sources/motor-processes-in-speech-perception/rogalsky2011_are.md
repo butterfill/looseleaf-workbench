@@ -20,4 +20,4 @@ Five heterogeneous lesions and chronic injury, potential reorganisation, clinica
 
 Research original full text checked 12 October 2026: *Methods—Participants/Materials/Lesion mapping*, *Results—Overall and individual performance*, *Discussion* (pp. 178–85). No new lesion-map or psychometric reanalysis.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

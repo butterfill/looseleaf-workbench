@@ -20,4 +20,4 @@ Small, clinically selected intracranial sample and uneven electrode coverage; sy
 
 Original Research full text checked on 12 October 2026: *Results*, Figs 1–5, *Discussion*, *Materials and methods—Participants/Task* and neural-clustering analysis. No reanalysis of electrode-level data or supplements.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

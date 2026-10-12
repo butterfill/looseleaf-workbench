@@ -20,4 +20,4 @@ Treat this **unpublished bioRxiv result** as a hypothesis-generating, priority-f
 
 Original **unpublished bioRxiv preprint** full text available in Research and checked 12 October 2026: *Methods—Participants/Stimuli*, *Results—cross-modal classification and RSA*, *Discussion*. No independent neuroimaging reanalysis, preprint version comparison or peer-review record check.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

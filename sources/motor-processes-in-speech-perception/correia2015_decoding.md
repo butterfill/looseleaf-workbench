@@ -22,4 +22,4 @@ Small sample; fMRI rather than causal perturbation; passive-with-attention rathe
 
 Research original full text checked 12 October 2026: *Materials and Methods—Participants, Stimuli, Experimental procedures*, MVPA generalisation, *Results* and *Discussion*. No independent classifier replication.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

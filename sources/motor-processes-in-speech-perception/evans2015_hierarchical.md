@@ -22,4 +22,4 @@ An attention-demanding one-back task, prior training with unusual speech transfo
 
 Research original full text checked 12 October 2026: *Method* (stimuli, training, perception task, n), multivariate *Results*, *Discussion—The Role of Somatomotor Representations* and *Conclusions*. No independent reanalysis.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

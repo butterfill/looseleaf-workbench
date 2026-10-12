@@ -20,4 +20,4 @@ The measured dependent variable is mainly speed in specific choice tasks followi
 
 Research original full text checked 12 October 2026: *Methods—Design, Tasks, Stimulation Parameters*, all three site-specific *Results* and *Discussion*. No independent TMS target or trial-level reanalysis.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

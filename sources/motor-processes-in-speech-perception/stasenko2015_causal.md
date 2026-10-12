@@ -18,4 +18,4 @@ The result is difficult for a strict motor theory requiring an intact production
 
 Research full text consulted 10 October 2026: *Case summary*, *Categorical perception experiments*, discrimination and labelling results, *General discussion*, and sections on motor modulation and identification. Original citation metadata/key verified as **stasenko:2015_causal**; separate BibTeX export returned no entry. This source-specific assessment is limited to the reported case and not a general lesion meta-analysis.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

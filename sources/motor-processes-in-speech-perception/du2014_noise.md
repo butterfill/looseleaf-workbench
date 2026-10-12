@@ -16,4 +16,4 @@ This is correlation and model decoding, not motor intervention; an explicit four
 
 Research original full text checked 12 October 2026: *Results* (behavioral, BOLD and MVPA), *Discussion* and *Materials and Methods*. No reproduction of imaging analyses.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

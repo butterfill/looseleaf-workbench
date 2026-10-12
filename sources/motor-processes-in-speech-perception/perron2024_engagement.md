@@ -18,4 +18,4 @@ ALE identifies spatial convergence of published peaks, **not** causality, shared
 
 Research original full text read selectively 12 October 2026: *Methods* (search/coding), *Results*, *Discussion*, *Limitations and Future Directions*. Not a study-by-study reanalysis of the 124 included studies or supplements.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

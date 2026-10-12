@@ -20,4 +20,4 @@ Thirteen participants and particular phoneme/task choices constrain null general
 
 Research metadata and BibTeX key verified. Research *fulltext* was unavailable; the **original published full HTML article** was read through Springer Nature on 12 October 2026 (abstract, *Participants*, *Stimuli and experimental methods*, univariate/MVPA and Bayesian tests, *Discussion*). No independent statistical reanalysis or supplement audit.
 
-[Entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Checklist](checklist.md)
+[Motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Checklist](checklist.md) · [Gesture-recovery companion](../../entries/phonetic-gestures-and-speech-perception.md)

@@ -8,7 +8,7 @@ Speech is an attractive case because it connects familiar, sometimes quite expli
 
 There are two quite different reasons to investigate this case. **Speech production** may expose the processes by which relatively abstract action specifications recruit the appropriate motor structures. **Speech perception** may illuminate a more ambitious proposal: that motor representations contribute an event-based structure to experience, and that experience helps make available the action concepts by which intentions can reach motor control. These reasons could come apart. Either would be philosophically interesting.
 
-The companion note, [*Are phonetic gestures the basic units of speech perception?*](phonetic-gestures-and-speech-perception.md), examines the motor theory of speech perception, articulatory phonology, categorical perception and the evidence that listening recruits production-related mechanisms. The issue here is what these discoveries might contribute to **the interface problem**.
+The parallel notes [*How do listeners recover articulatory gestures from speech?*](phonetic-gestures-and-speech-perception.md) and [*What roles do motor processes play in speech perception?*](motor-processes-in-speech-perception.md) investigate respectively what listeners recover about speakers' actions and what production-related systems contribute to listening. The issue here is what these discoveries might contribute to **the interface problem**.
 
 ## What exactly needs explaining?
 

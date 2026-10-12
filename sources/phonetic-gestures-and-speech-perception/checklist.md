@@ -1,8 +1,8 @@
-# Source checklist — phonetic gestures and speech perception
+# Source checklist — recovering articulatory gestures from speech
 
-[Main entry](../../entries/phonetic-gestures-and-speech-perception.md). Captured 10 October 2026 by ChatGPT (GPT-6), following the repository's AGENTS.md, the user's citation skill and a focused Research / Personal Papers verification pass. The overlapping interface-problem entry was deliberately left untouched and was not used as a source.
+[Gesture-recovery entry](../../entries/phonetic-gestures-and-speech-perception.md) · [Parallel motor-processes entry](../../entries/motor-processes-in-speech-perception.md) · [Motor-processes checklist](../motor-processes-in-speech-perception/checklist.md). Captured 10 October 2026 by ChatGPT (GPT-6), following the repository's AGENTS.md, the user's citation skill and a focused Research / Personal Papers verification pass. The overlapping interface-problem entry was deliberately left untouched and was not used as a source.
 
-**Scope:** capture the current investigation of the motor theory of speech perception and gestures as units of production and perception. This is not promoted research, a complete coverage survey or an exhaustive full-text methodological audit.
+**Scope:** historical checklist for the inquiry now focused on recovering *articulatory events, tasks and intended gestures* from speech. On 12 October 2026 the motor-processes question became a parallel entry with its own checklist and primarily motor-relevant source notes. The records below retain the initial, broader investigation's source provenance; they are not a complete coverage survey or full-text audit.
 
 ## Library citation-key verification
 
@@ -32,12 +32,12 @@ The Research connector's **fulltext** view was used for the original works noted
 | \citet{dausilio:2009_motor} | Original full experiment: TMS summary, discussion, articulator specificity. Pending source note. |
 | \citet{smalle:2015_dissociating} | Original full experiment: design and discussion of signal-detection dissociation. Pending source note. |
 | \citet{bruderer:2015_sensorimotor} | Original full experiment: infant tongue-restriction method, ultrasound verification, discussion. Pending source note. |
-| \citet{stasenko:2015_causal} | Original full case report: discrimination vs naming, case description, discussion. [Source note](stasenko2015_causal.md). |
+| \citet{stasenko:2015_causal} | Original full case report: discrimination vs naming, case description, discussion. [Source note](../motor-processes-in-speech-perception/stasenko2015_causal.md). |
 | \citet{mesgarani:2014_phonetic} | Original article in fulltext view: STG phonetic-feature account. Extraction also includes neighbouring journal material; electrode/supplement detail needs checking against original article boundaries. Pending source note. |
 | \citet{binder:2025_lesion} | Original full article: sample, lesion results and discussion; specific contrasts and covariates need closer audit. Pending source note. |
 | \citet{skipper:2017_hearing} | First large segment of original review, abstract and network framing; continuation needed. Pending source note. |
 | \citet{perron:2024_left} | Original full article: MEG design, results, noise hypothesis and discussion. Pending source note. |
-| \citet{carneiropereira:2026_origin} | Original full article: abstract, experiments 1–3 and discussion. [Source note](carneiropereira2026_origin.md). |
+| \citet{carneiropereira:2026_origin} | Original full article: abstract, experiments 1–3 and discussion. [Source note](../motor-processes-in-speech-perception/carneiropereira2026_origin.md). |
 | \citet{tseng:2026_embodied} | Original full review: abstract and sections concerning non-native and degraded speech; not exhaustively audited. Pending source note. |
 
 **Unpublished user manuscript:** *Categorical Perception: A Fresh Start* was supplied as a PDF, with selected pages and its central definition issue considered during the prior conversation. It has no independently verified library citation key in this pass, so it is referred to descriptively rather than given an invented citation.
@@ -45,27 +45,27 @@ The Research connector's **fulltext** view was used for the original works noted
 
 ## Additional source assessments — 12 October 2026 (GPT-6)
 
-**Scope of this pass:** Following the OpenAlex search, 17 newly identified sources now have verified Research / Personal Papers keys and individual source assessments in this directory. All 17 were checked against the original full text: 15 via Research's \`fulltext\` view, and \citet{arsenault:2016_no} and \citet{baek:2026_dynamic} in the original publisher's full HTML because Research has metadata but no full text. The original text checked was substantial and targeted, not a complete page-by-page audit, independent data reanalysis or systematic replication review. All 17 had no prior source note here before these passes. **The main entry has not been edited.**
+**Scope of this pass:** Following the OpenAlex search, 17 newly identified sources now have verified Research / Personal Papers keys and individual source assessments in this directory. All 17 were checked against the original full text: 15 via Research's \`fulltext\` view, and \citet{arsenault:2016_no} and \citet{baek:2026_dynamic} in the original publisher's full HTML because Research has metadata but no full text. The original text checked was substantial and targeted, not a complete page-by-page audit, independent data reanalysis or systematic replication review. All 17 had no prior source note here before these passes. **At the time of this source-checking pass, the main entry was unchanged; it was subsequently refocused and paired with a new motor-processes entry on 12 October 2026.**
 
 | Source and new note | Original material directly checked | Outstanding methodological issue |
 |---|---|---|
-| \citet{cheung:2016_auditory} — [assessment](cheung2016_auditory.md) | Research full text: cortical response analyses, task and participant details, neural similarity/STRF, discussion | Clinically selected intracranial sample; speaking-versus-listening feature geometry |
-| \citet{evans:2015_hierarchical} — [assessment](evans2015_hierarchical.md) | Research full text: one-back task and training, acoustic-form/identity RSA, conclusions | Identity representation versus articulatory format; role of task demands |
-| \citet{correia:2015_decoding} — [assessment](correia2015_decoding.md) | Research full text: stimuli and cross-generalisation MVPA, results and discussion | Residual acoustic/coarticulatory structure, subvocal activity |
-| \citet{arsenault:2016_no} — [assessment](arsenault2016_no.md) | **Published Springer full HTML**, methods, Bayesian negative findings and discussion; Research metadata only | Small sample and design differences from positive sensorimotor coding experiments |
-| \citet{krieger-redwood:2013_selective} — [assessment](krieger-redwood2013_selective.md) | Research full text: offline TMS, phonological/semantic controls, site-specific results | Meaning access versus finer phonetic discrimination |
-| \citet{rogalsky:2011_are} — [assessment](rogalsky2011_are.md) | Research full text: five patients, lesion mapping, word/nonword comprehension and discrimination | Lesion heterogeneity, compensation and ceiling effects |
+| \citet{cheung:2016_auditory} — [assessment](../motor-processes-in-speech-perception/cheung2016_auditory.md) | Research full text: cortical response analyses, task and participant details, neural similarity/STRF, discussion | Clinically selected intracranial sample; speaking-versus-listening feature geometry |
+| \citet{evans:2015_hierarchical} — [assessment](../motor-processes-in-speech-perception/evans2015_hierarchical.md) | Research full text: one-back task and training, acoustic-form/identity RSA, conclusions | Identity representation versus articulatory format; role of task demands |
+| \citet{correia:2015_decoding} — [assessment](../motor-processes-in-speech-perception/correia2015_decoding.md) | Research full text: stimuli and cross-generalisation MVPA, results and discussion | Residual acoustic/coarticulatory structure, subvocal activity |
+| \citet{arsenault:2016_no} — [assessment](../motor-processes-in-speech-perception/arsenault2016_no.md) | **Published Springer full HTML**, methods, Bayesian negative findings and discussion; Research metadata only | Small sample and design differences from positive sensorimotor coding experiments |
+| \citet{krieger-redwood:2013_selective} — [assessment](../motor-processes-in-speech-perception/krieger-redwood2013_selective.md) | Research full text: offline TMS, phonological/semantic controls, site-specific results | Meaning access versus finer phonetic discrimination |
+| \citet{rogalsky:2011_are} — [assessment](../motor-processes-in-speech-perception/rogalsky2011_are.md) | Research full text: five patients, lesion mapping, word/nonword comprehension and discrimination | Lesion heterogeneity, compensation and ceiling effects |
 | \citet{baek:2026_dynamic} — [assessment](baek2026_dynamic.md) | **Published Nature Communications full HTML**, psychophysics, time-resolved RSA and discussion; Research metadata only | Behaviourally defined category model, limited contrasts, acoustic baseline |
 | \citet{daube:2019_simple} — [assessment](daube2019_simple.md) | Research full-text manuscript version plus published Current Biology article/PMC checks | Manuscript/published version comparison, limits of acoustic predictor spaces |
-| \citet{du:2014_noise} — [assessment](du2014_noise.md) | Research full text: noise-SNR fMRI phoneme encoding and behavioural results | Decision/task confounds and correlational inference |
-| \citet{perron:2024_engagement} — [assessment](perron2024_engagement.md) | Research full meta-analysis: methods, results, limitations, absence of M1/PMv overlap | Coordinate-ALE heterogeneity and absence of neural causal tests |
+| \citet{du:2014_noise} — [assessment](../motor-processes-in-speech-perception/du2014_noise.md) | Research full text: noise-SNR fMRI phoneme encoding and behavioural results | Decision/task confounds and correlational inference |
+| \citet{perron:2024_engagement} — [assessment](../motor-processes-in-speech-perception/perron2024_engagement.md) | Research full meta-analysis: methods, results, limitations, absence of M1/PMv overlap | Coordinate-ALE heterogeneity and absence of neural causal tests |
 | \citet{ito:2009_somatosensory} — [assessment](ito2009_somatosensory.md) | Research full text: facial skin deformation timing/direction and control conditions | Sensory integration versus reporting bias/content |
 | \citet{gick:2009_aerotactile} — [assessment](gick2009_aerotactile.md) | Research full Nature paper: airflow stimuli, closed-choice performance, methods | Open-choice generalisation and learned cross-modal association |
 | \citet{derrick:2019_aerotactile} — [assessment](derrick2019_aerotactile.md) | Research full published JASA paper: methods, both task paradigms, Tables I–V, results and discussion; 12 October 2026 | Between-group/stimulus confounds, borderline interaction, absence of equivalence test for open choice |
 | \citet{kuhl:1975_speech} — [assessment](kuhl1975_speech.md) | Research full Science paper: two chinchilla experiments and boundary comparison | Conditioned labels versus phonemic perception |
 | \citet{kuhl:1981_discrimination} — [assessment](kuhl1981_discrimination.md) | Research full text: adaptive thresholds, directional boundary effects and categorical-perception discussion | Species/task generality, auditory mechanism |
 | \citet{fowler:1996_listeners} — [assessment](fowler1996_listeners.md) | Research full original article: direct realism, multimodal evidence and replies to acoustic theory | Alternative learned-cue explanations and public-action vs command distinction |
-| **\citet{tseng:2026_decoding} — UNPUBLISHED bioRxiv preprint** — [assessment](tseng2026_decoding.md) | Original **unpublished bioRxiv preprint** full text through Research: cross-task decoding, RSA, stimuli, exclusions and discussion | **UNPUBLISHED, not peer reviewed**; only right-sided transfer for noisy native plosives; replication/version watch |
+| **\citet{tseng:2026_decoding} — UNPUBLISHED bioRxiv preprint** — [assessment](../motor-processes-in-speech-perception/tseng2026_decoding.md) | Original **unpublished bioRxiv preprint** full text through Research: cross-task decoding, RSA, stimuli, exclusions and discussion | **UNPUBLISHED, not peer reviewed**; only right-sided transfer for noisy native plosives; replication/version watch |
 
 ### Remaining source-access and citation check
 
@@ -75,6 +75,14 @@ The Research connector's **fulltext** view was used for the original works noted
 - [ ] Revisit whether 'perceiving intended commands' or 'perceiving public gestural actions' deserves its own philosophical entry, but **do not edit or split the entry without subsequent user review**.
 
 **Unpublished-source rule:** \citet{tseng:2026_decoding} is an **unpublished bioRxiv preprint** and must be explicitly flagged as **unpublished** *every time it is mentioned* (including any eventual entry, source note, tables and summaries). It is a different work from the published review \citet{tseng:2026_embodied}. The present notes treat it as provisional.
+
+## Entry split and source-note ownership — 12 October 2026
+
+The owner authorised two **parallel** inquiries. The existing entry was rewritten as [*How do listeners recover articulatory gestures from speech?*](../../entries/phonetic-gestures-and-speech-perception.md). A new [*What roles do motor processes play in speech perception?*](../../entries/motor-processes-in-speech-perception.md) asks about causal contribution, computation, neural information and context. This checklist retains records of the initial joint investigation; the [motor checklist](../motor-processes-in-speech-perception/checklist.md) tracks that independent question.
+
+To keep one authoritative source-specific assessment per publication, 11 notes whose central question was motor processing, neural representational coding or causal perturbation were relocated to [the motor-processes source directory](../motor-processes-in-speech-perception/). Links above have been updated; cross-references from the two entries allow a paper to bear on either question. Other notes—historical gesture theories, multisensory integration, nonhuman phoneme boundaries and auditory model controls—remain here. This is a source-note organisational decision, not an empirical conclusion.
+
+**Current emphasis:** distinguish phoneme identification, recovery of a constriction *task*, recovery of the realised vocal-tract event, recovery of the speaker's *intended* motor organisation and the still-further claim that a gesture is perceived as an event. Audit acoustic-only, articulatory and multisensory models against common stimuli; seek production errors or perturbations in which intended and performed events diverge.
 
 ## Open checks before promotion
 
