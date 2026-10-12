@@ -42,6 +42,39 @@ The Research connector's **fulltext** view was used for the original works noted
 
 **Unpublished user manuscript:** *Categorical Perception: A Fresh Start* was supplied as a PDF, with selected pages and its central definition issue considered during the prior conversation. It has no independently verified library citation key in this pass, so it is referred to descriptively rather than given an invented citation.
 
+
+## Additional source assessments — 12 October 2026 (GPT-6)
+
+**Scope of this pass:** Following the OpenAlex search, 16 newly identified sources now have verified Research / Personal Papers keys and individual source assessments in this directory. All 16 were checked against the original full text: 14 via Research's \`fulltext\` view, and \citet{arsenault:2016_no} and \citet{baek:2026_dynamic} in the original publisher's full HTML because Research has metadata but no full text. The original text checked was substantial and targeted, not a complete page-by-page audit, independent data reanalysis or systematic replication review. All 16 had no prior source note here before this pass. **The main entry has not been edited.**
+
+| Source and new note | Original material directly checked | Outstanding methodological issue |
+|---|---|---|
+| \citet{cheung:2016_auditory} — [assessment](cheung2016_auditory.md) | Research full text: cortical response analyses, task and participant details, neural similarity/STRF, discussion | Clinically selected intracranial sample; speaking-versus-listening feature geometry |
+| \citet{evans:2015_hierarchical} — [assessment](evans2015_hierarchical.md) | Research full text: one-back task and training, acoustic-form/identity RSA, conclusions | Identity representation versus articulatory format; role of task demands |
+| \citet{correia:2015_decoding} — [assessment](correia2015_decoding.md) | Research full text: stimuli and cross-generalisation MVPA, results and discussion | Residual acoustic/coarticulatory structure, subvocal activity |
+| \citet{arsenault:2016_no} — [assessment](arsenault2016_no.md) | **Published Springer full HTML**, methods, Bayesian negative findings and discussion; Research metadata only | Small sample and design differences from positive sensorimotor coding experiments |
+| \citet{krieger-redwood:2013_selective} — [assessment](krieger-redwood2013_selective.md) | Research full text: offline TMS, phonological/semantic controls, site-specific results | Meaning access versus finer phonetic discrimination |
+| \citet{rogalsky:2011_are} — [assessment](rogalsky2011_are.md) | Research full text: five patients, lesion mapping, word/nonword comprehension and discrimination | Lesion heterogeneity, compensation and ceiling effects |
+| \citet{baek:2026_dynamic} — [assessment](baek2026_dynamic.md) | **Published Nature Communications full HTML**, psychophysics, time-resolved RSA and discussion; Research metadata only | Behaviourally defined category model, limited contrasts, acoustic baseline |
+| \citet{daube:2019_simple} — [assessment](daube2019_simple.md) | Research full-text manuscript version plus published Current Biology article/PMC checks | Manuscript/published version comparison, limits of acoustic predictor spaces |
+| \citet{du:2014_noise} — [assessment](du2014_noise.md) | Research full text: noise-SNR fMRI phoneme encoding and behavioural results | Decision/task confounds and correlational inference |
+| \citet{perron:2024_engagement} — [assessment](perron2024_engagement.md) | Research full meta-analysis: methods, results, limitations, absence of M1/PMv overlap | Coordinate-ALE heterogeneity and absence of neural causal tests |
+| \citet{ito:2009_somatosensory} — [assessment](ito2009_somatosensory.md) | Research full text: facial skin deformation timing/direction and control conditions | Sensory integration versus reporting bias/content |
+| \citet{gick:2009_aerotactile} — [assessment](gick2009_aerotactile.md) | Research full Nature paper: airflow stimuli, closed-choice performance, methods | Open-choice generalisation and learned cross-modal association |
+| \citet{kuhl:1975_speech} — [assessment](kuhl1975_speech.md) | Research full Science paper: two chinchilla experiments and boundary comparison | Conditioned labels versus phonemic perception |
+| \citet{kuhl:1981_discrimination} — [assessment](kuhl1981_discrimination.md) | Research full text: adaptive thresholds, directional boundary effects and categorical-perception discussion | Species/task generality, auditory mechanism |
+| \citet{fowler:1996_listeners} — [assessment](fowler1996_listeners.md) | Research full original article: direct realism, multimodal evidence and replies to acoustic theory | Alternative learned-cue explanations and public-action vs command distinction |
+| **\citet{tseng:2026_decoding} — UNPUBLISHED bioRxiv preprint** — [assessment](tseng2026_decoding.md) | Original **unpublished bioRxiv preprint** full text through Research: cross-task decoding, RSA, stimuli, exclusions and discussion | **UNPUBLISHED, not peer reviewed**; only right-sided transfer for noisy native plosives; replication/version watch |
+
+### Remaining source-access and citation check
+
+- [ ] **Derrick, Madappallimattam and Theys (2019)**, *Aero-tactile integration during speech perception: Effect of response and stimulus characteristics on syllable identification*, DOI **10.1121/1.5125131**, is **still not found in Research / Personal Papers** after DOI, author-name and distinctive-title searches on 12 October 2026 (the search returns the different \citet{gick:2009_aerotactile}). Journal abstract, author commentary and related original thesis text were available externally, but the published original *full text* was not verified. **No source-specific note has been created**, in accordance with AGENTS.md. Acquire/index the full original and verify the library citation key before making the note. Provisional abstract-level report: air puffs biased closed-choice identification, with no corresponding open-choice accuracy gain; task sensitivity and possible response bias need full-text checking.
+- [ ] Check all new notes against article figures, supplements, full statistical tables and subsequent replications before promotion.
+- [ ] Contrast representational tests on a common matrix: (i) acoustic identity vs feature geometry, (ii) task/attention demands, (iii) speaker/phoneme and SNR diversity, (iv) production-to-perception cross-decoding, (v) neural modality and spatial location, and (vi) causal intervention versus observational decoding.
+- [ ] Revisit whether 'perceiving intended commands' or 'perceiving public gestural actions' deserves its own philosophical entry, but **do not edit or split the entry without subsequent user review**.
+
+**Unpublished-source rule:** \citet{tseng:2026_decoding} is an **unpublished bioRxiv preprint** and must be explicitly flagged as **unpublished** *every time it is mentioned* (including any eventual entry, source note, tables and summaries). It is a different work from the published review \citet{tseng:2026_embodied}. The present notes treat it as provisional.
+
 ## Open checks before promotion
 
 - [ ] Check the *entire* original text and bibliography for all works used as substantive evidence, especially detailed methods, control conditions, statistical findings and negative results; expand source assessments accordingly.
