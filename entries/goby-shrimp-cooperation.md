@@ -12,6 +12,4 @@ For joint-action research, the useful distinction is between **complementary rol
 
 These findings concern different species pairings. They should not be combined into a behavioural profile possessed by every goby–shrimp association.
 
-A question to retain: **What makes a partnership stable when its participants contribute different activities and have different sensory access to danger?**
-
 [Related inquiry: cues, signals and communicative intentions](cues-signals-communicative-intentions.md) · [Source checklist and access record](../sources/goby-shrimp-cooperation/checklist.md)
