@@ -2,7 +2,7 @@
 
 ## The basic experimental idea
 
-A participant speaks into a microphone and hears their voice through headphones. The experimenter alters a property of the returning sound—often vowel formants (F1 or F2, the first two resonances of the vocal tract, which help distinguish vowels), fundamental frequency (pitch), or timing—without directly changing the participant's vocal tract movement. The difference between what was produced and what was heard is controlled experimentally. The central distinction is between **online compensation** during an altered utterance and **adaptation** persisting in later productions, including unaltered-feedback trials. Compensation can occur without lasting learning; aftereffects provide a more direct indication of recalibration.
+A participant speaks into a microphone and hears their voice through headphones. The experimenter alters a property of the returning sound—often vowel formants (F1 and F2, the frequencies of the first two vocal-tract resonances, which help distinguish vowels), fundamental frequency (pitch), or timing—without directly changing the participant's vocal tract movement. The difference between what was produced and what was heard is controlled experimentally. The central distinction is between **online compensation** during an altered utterance and **adaptation** persisting in later productions, including unaltered-feedback trials. Compensation can occur without lasting learning; aftereffects provide a more direct indication of recalibration.
 
 The trick is that researchers can record what the speaker actually says separately from the altered version played through the headphones. They can then see whether hearing a different sound changes the way someone speaks—not only at that moment, but also the next time they say a word.
 
@@ -10,7 +10,7 @@ The trick is that researchers can record what the speaker actually says separate
 
 Suppose you say *bed* but the sound reaching your ears is altered so that its vowel is a little closer to the one in *bad*. Although nothing has physically pushed your tongue or jaw, you may begin to pronounce the vowel differently. Often the change goes in the opposite direction from the experimenter's alteration, as though you were trying to restore the sound you expected to hear.
 
-This is **compensation**. In studies where an unexpected change is introduced partway through a vowel, speakers can begin correcting their pronunciation before the word is finished. The response typically takes a fraction of a second, and it is usually incomplete: the speaker does not simply undo the entire artificial change. Responses also differ considerably between people and circumstances. Some speakers show little correction, and some changes in pronunciation even go in the same direction as the altered feedback. \citet{niziolek:2013_vowel} provides a particularly revealing example of these rapid responses.
+This is **compensation**. When feedback is unexpectedly altered during a vowel, speakers can begin correcting their pronunciation before the word is finished. The response typically takes a fraction of a second, and it is usually incomplete: the speaker does not simply undo the entire artificial change. Responses also differ considerably between people and circumstances. Some speakers show little correction, and some changes in pronunciation even go in the same direction as the altered feedback. \citet{niziolek:2013_vowel} provides a particularly revealing example of these rapid responses.
 
 What makes the result interesting is that the sound coming through the headphones is, in an important sense, a sound the speaker did not make. Yet it can influence the ongoing movement of the vocal tract. The auditory system is involved in guiding speech as it unfolds, not merely in judging it afterwards.
 
@@ -21,8 +21,6 @@ The more surprising discovery may be what happens *after* repeated exposure. Ima
 Now the experimenter switches the feedback back to normal. Your pronunciation does not always return to its original form immediately. For a while, it may retain something of the adjustment you learned while the feedback was altered. This lingering change is an **aftereffect**. \citet{lametti:2014_plasticity} demonstrates both the gradual alteration of vowel production and its subsequent return towards baseline when normal feedback is restored.
 
 The distinction matters. Correcting a sound while it is being distorted could be an immediate response to what is heard. Continuing to speak differently when the distortion is gone suggests that experience has changed the way the speaker prepares or controls subsequent utterances. Researchers call this **sensorimotor adaptation**: learning from a mismatch between a movement and its sensory consequences.
-
-The phenomenon has been known for some time. In an influential early study, [Houde and Jordan (1998)](https://doi.org/10.1126/science.279.5354.1213) showed that people adjusted vowel production during altered feedback, retained part of that adjustment when feedback was masked, and transferred some of what they had learned to other speech sounds and contexts. The effect was more than a momentary effort to correct an odd sound.
 
 ## Does it matter which vowel you hear?
 
@@ -36,9 +34,9 @@ The results were striking. When a vowel happened to be produced near a category 
 
 The experimenter had changed the sound by the same amount, but the response depended on where that change fell in relation to the vowels of the speaker's language. This suggests that speech correction is sensitive to learned distinctions between sounds, as well as to their physical differences.
 
-There is a qualification worth keeping in view: the crucial comparison took advantage of small natural variations between utterances, which the researchers grouped according to distance from a vowel boundary. It was not a separate manipulation that placed otherwise identical utterances on either side of that boundary. The finding is strong evidence of sensitivity to boundary proximity, but it does not, by itself, settle exactly how vowel categories are represented in speech control.
+There is a qualification worth keeping in view: the crucial near-versus-far comparison grouped naturally varying utterances according to distance from a vowel boundary, after the planned within-versus-across comparison proved less decisive. It was not a separate manipulation that placed otherwise identical utterances on either side of that boundary. The brain-imaging analysis ultimately included 16 participants. The result supports sensitivity to vowel boundaries, but it does not settle exactly how those categories are represented in speech control.
 
-## Can the meaning of a word matter too?
+## Does it matter whether a sound makes a word?
 
 Vowels belong to words, and an altered vowel can sometimes make a familiar word sound like a made-up one. Could that make a difference to how speakers adapt?
 
@@ -64,15 +62,15 @@ The discovery is that practising a new pronunciation can change the boundary bet
 
 A person who learns to compensate while saying *head* might simply have learned a new way to pronounce *head*. Or the change might affect vowels that were never spoken with altered feedback. This matters because ordinary speech involves many different words, not one syllable repeated in a laboratory.
 
-An especially clear example comes from [Parrell, Niziolek and Chen (2024)](https://doi.org/10.1152/jn.00240.2024). Instead of shifting every vowel in one direction, the experimenters altered four vowels at the edges of the English vowel range so that they all sounded closer to its centre—and thus more similar to one another. Speakers responded by producing those vowels farther apart, increasing the acoustic distinctions between them.
+An especially clear example comes from \citet{parrell:2024_sensorimotor}. Instead of shifting every vowel in one direction, the experimenters altered four vowels at the edges of the English vowel range so that they all sounded closer to its centre—and thus more similar to one another. Speakers responded by producing those vowels farther apart, increasing the acoustic distinctions between them.
 
-The researchers then tested five other vowels that had not been used during training. These too had changed, and the changes tended to resemble those in neighbouring trained vowels. Learning was therefore neither confined to the exact sounds practised nor spread indiscriminately to everything a speaker said. The pattern suggested a more local transfer from familiar to nearby, untrained vowels.
+The researchers then tested five other vowels that had not been used during training. Taken together, these untrained vowels also showed greater separation, with a pattern resembling changes in neighbouring trained vowels. That does not mean that every untrained vowel changed significantly on its own. Learning was neither confined to the exact sounds practised nor spread indiscriminately to everything a speaker said. The pattern suggested a more local transfer from trained vowels to nearby, untrained ones.
 
 This study concerned carefully controlled productions of short words. It does not establish how extensively the same changes would carry over into spontaneous conversation. But it shows that adaptation can affect a family of related speech sounds rather than a single rehearsed item.
 
 ## Vowels are only part of the story
 
-Experimenters can alter aspects of speech other than vowel quality. In a study of vocal pitch, [Jones and Munhall (2000)](https://doi.org/10.1121/1.1288414) slowly raised or lowered the pitch that participants heard while speaking. Participants gradually shifted their *actual* pitch in the opposite direction. When ordinary feedback returned, they showed aftereffects. The pitch of the voice, like vowel pronunciation, can be recalibrated through altered auditory feedback.
+Experimenters can alter aspects of speech other than vowel quality. Voice pitch (often measured as *fundamental frequency*, or F0) is one possibility, distinct from the vocal-tract resonances that help make vowels recognisable. Another possibility is the timing of sounds within a word.
 
 Speech also has a temporal structure. \citet{karlin:2021_auditory} altered the duration of sounds within spoken words, lengthening the auditory feedback for an initial consonant and shortening it for the following vowel. Speakers tended to lengthen their produced vowels to counteract the shortening, and that change persisted briefly after ordinary feedback returned. They did not show a comparable adaptation of absolute consonant durations. The authors argued that speakers were sensitive to the *relative* timing of the parts of a syllable, rather than controlling every duration independently.
 
@@ -84,7 +82,7 @@ We hear ourselves talk, but we also feel the movements and positions of the jaw,
 
 \citet{lametti:2012_sensory} investigated this by introducing two disturbances. The researchers used a small robotic device to alter participants' jaw movements, while also changing the vowel sound participants heard through headphones. They could apply either disturbance on its own or the two together.
 
-The speakers did not all respond alike. Some compensated more strongly for the sound alteration, while others responded more strongly to the disturbance of their jaw. Across speakers, greater reliance on one source of information was associated with less reliance on the other. Everyone showed adaptation to at least one of the disturbances, but hearing was not universally dominant.
+The speakers did not all respond alike. Some compensated more strongly for the sound alteration, while others responded more strongly to the disturbance of their jaw. Across speakers, greater reliance on one source of information was associated with less reliance on the other. Among the participants who experienced both disturbances, everyone met the researchers' criterion for adapting to at least one of them, but hearing was not universally dominant.
 
 This helps explain why altered auditory feedback does not always produce a large response. Speech control draws on more than one kind of information. A speaker who makes relatively little adjustment to a changed sound may be placing greater weight on how a movement feels. What counts as a useful correction can depend on how these different sources of information are combined.
 
@@ -96,7 +94,7 @@ In \citet{parrell:2026_audiomotor}, participants were shown words to read aloud.
 
 The remarkable finding was that even after trials on which participants successfully stopped themselves from speaking, their next spoken vowels changed slightly in the direction opposite to the alteration they had heard. The effect was smaller than when a person actually spoke during the perturbation, but it was measurable. In a comparison condition where participants knew in advance that they were only to listen, no comparable reliable adaptation was found.
 
-This points towards the importance of **expectation**. Preparing to say a word may establish an expectation of how it will sound. The unexpected recording can then provide information that changes a later attempt, even though there was no overt pronunciation to correct at the time. The effect was small, and trials on which participants failed to stop speaking were excluded; the study does not reveal exactly how such expectations are generated. But it makes it harder to explain all auditory-feedback adaptation merely as the storage of corrections made during actual movements.
+This points towards the importance of **expectation**. Preparing to say a word may establish an expectation of how it will sound. The unexpected recording can then provide information that changes a later attempt, even though there was no overt pronunciation to correct at the time. The effect was small, and trials on which participants failed to stop speaking were excluded. Since the researchers checked for audible speech rather than measuring every tongue or muscle movement directly, tiny or silent movements cannot be completely ruled out. The study also leaves open exactly how the relevant expectations are generated. But it makes it harder to explain all auditory-feedback adaptation merely as the storage of corrections made during actual movements.
 
 ## What emerges from these discoveries?
 
